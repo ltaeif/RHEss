@@ -1,0 +1,5133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+ <header/>
+ <file source-language="en_US" target-language="ar_SA" datatype="plaintext" original="messages" date="2012-12-31T23:29:09Z" product-name="messages">
+  <body>
+   <trans-unit id="1">
+    <source>1M Max, any larger attachments will be ignored</source>
+    <target>حد أقصى 1 ميجابايت، سيتم تجاهل أي مرفقات بحجم أكبر</target>
+   </trans-unit>
+   <trans-unit id="2">
+    <source>Accepts .docx, .doc, .odt, .pdf, .rtf, .txt up to 1MB</source>
+    <target>يقبل الملفات التالية وبحد أقصى 1 ميجابايت .docx, .doc, .odt, .pdf, .rtf, .txt</target>
+   </trans-unit>
+   <trans-unit id="3">
+    <source>Accepts jpg, .png, .gif up to 1MB</source>
+    <target>يقبل الملفات التالية وبحد أقصى ا ميجابايت jpg, .png, .gif</target>
+   </trans-unit>
+   <trans-unit id="4">
+    <source>Accepts up to 1MB</source>
+    <target>يقبل ما يصل إلى 1MB</target>
+   </trans-unit>
+   <trans-unit id="5">
+    <source>Action</source>
+    <target>فعل</target>
+   </trans-unit>
+   <trans-unit id="6">
+    <source>Active Job Vacancies</source>
+    <target>وظائف شاغرة نشطة</target>
+   </trans-unit>
+   <trans-unit id="7">
+    <source>Activity Name</source>
+    <target>اسم النشاط</target>
+   </trans-unit>
+   <trans-unit id="8">
+    <source>Add</source>
+    <target>إضافة</target>
+   </trans-unit>
+   <trans-unit id="9">
+    <source>Add Attachment</source>
+    <target>إضافة مرفق</target>
+   </trans-unit>
+   <trans-unit id="10">
+    <source>Add Education</source>
+    <target>إضافة التعليم</target>
+   </trans-unit>
+   <trans-unit id="11">
+    <source>Add Employee</source>
+    <target>إضافة موظف</target>
+   </trans-unit>
+   <trans-unit id="12">
+    <source>Add KPI</source>
+    <target>إضافة مؤشر قياس الأداء</target>
+   </trans-unit>
+   <trans-unit id="13">
+    <source>Add Language</source>
+    <target>إضافة لغة</target>
+   </trans-unit>
+   <trans-unit id="14">
+    <source>Add License</source>
+    <target>إضافة رخصة</target>
+   </trans-unit>
+   <trans-unit id="15">
+    <source>Add Review</source>
+    <target>إضافة تقييم</target>
+   </trans-unit>
+   <trans-unit id="16">
+    <source>Add Salary Component</source>
+    <target>إضافة مكون راتب</target>
+   </trans-unit>
+   <trans-unit id="17">
+    <source>Add Skill</source>
+    <target>إضافة مهارة</target>
+   </trans-unit>
+   <trans-unit id="18">
+    <source>Add-Ons</source>
+    <target>إضافات</target>
+   </trans-unit>
+   <trans-unit id="19">
+    <source>added</source>
+    <target>تم أضافته</target>
+   </trans-unit>
+   <trans-unit id="20">
+    <source>Added By</source>
+    <target>تم أضافته بواسطة</target>
+   </trans-unit>
+   <trans-unit id="21">
+    <source>Address</source>
+    <target>عنوان</target>
+   </trans-unit>
+   <trans-unit id="22">
+    <source>Address Street 1</source>
+    <target>العنوان 1</target>
+   </trans-unit>
+   <trans-unit id="23">
+    <source>Address Street 2</source>
+    <target>العنوان 2</target>
+   </trans-unit>
+   <trans-unit id="24">
+    <source>Admin</source>
+    <target>مدير</target>
+   </trans-unit>
+   <trans-unit id="25">
+    <source>Afghan</source>
+    <target>أفغاني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="26">
+    <source>Afghanistan</source>
+    <target>أفغانستان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="27">
+    <source>Afghanistan Afghani</source>
+    <target>أفغاني أفغانستان</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="28">
+    <source>Age Group</source>
+    <target>الفئة العمرية</target>
+   </trans-unit>
+   <trans-unit id="29">
+    <source>Alabama</source>
+    <target>ألاباما</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="30">
+    <source>Alaska</source>
+    <target>ألاسكا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="31">
+    <source>Albania</source>
+    <target>ألبانيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="32">
+    <source>Albanian</source>
+    <target>ألباني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="33">
+    <source>Albanian Lek</source>
+    <target>ليك ألباني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="34">
+    <source>Algeria</source>
+    <target>الجزائر</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="35">
+    <source>Algerian</source>
+    <target>جزائري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="36">
+    <source>Algerian Dinar</source>
+    <target>دينار جزائري</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="37">
+    <source>All</source>
+    <target>الكل</target>
+   </trans-unit>
+   <trans-unit id="38">
+    <source>Allows numbers and only + - / ( )</source>
+    <target>يسمح بالأرقام و + - / ( ) فقط</target>
+   </trans-unit>
+   <trans-unit id="39">
+    <source>Already exists</source>
+    <target>موجود مسبقا</target>
+   </trans-unit>
+   <trans-unit id="40">
+    <source>America/Anchorage</source>
+    <target>أمريكا / أنكوراج</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="41">
+    <source>America/Argentina/Buenos_Aires</source>
+    <target>أمريكا / الأرجنتين / بونيس آيريس</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="42">
+    <source>America/Denver</source>
+    <target>أمريكا / دنفر</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="43">
+    <source>America/Halifax</source>
+    <target>أمريكا / هاليفاكس</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="44">
+    <source>America/Los_Angeles</source>
+    <target>أمريكا / لوس أنجلوس</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="45">
+    <source>America/New_York</source>
+    <target>أمريكا / نيويورك</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="46">
+    <source>America/St_Johns</source>
+    <target>أمريكا / سانت جونز</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="47">
+    <source>America/Tegucigalpa</source>
+    <target>أمريكا / تيغوسيغالبا</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="48">
+    <source>American</source>
+    <target>أميركي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="49">
+    <source>American Samoa</source>
+    <target>ساموا الأمريكية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="50">
+    <source>Amount</source>
+    <target>كمية</target>
+   </trans-unit>
+   <trans-unit id="51">
+    <source>Andorra</source>
+    <target>أندورا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="52">
+    <source>Andorran</source>
+    <target>أندوري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="53">
+    <source>Angola</source>
+    <target>أنغولا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="54">
+    <source>Angolan</source>
+    <target>أنغولي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="55">
+    <source>Angolan New Kwanza</source>
+    <target>كوانزا الجديد الأنغولي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="56">
+    <source>Anguilla</source>
+    <target>أنغيلا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="57">
+    <source>Antarctica</source>
+    <target>القارة القطبية الجنوبية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="58">
+    <source>Antigua and Barbuda</source>
+    <target>انتيغوا وبربودا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="59">
+    <source>Antiguans</source>
+    <target>انتيغواي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="60">
+    <source>Apply</source>
+    <target>تطبيق</target>
+   </trans-unit>
+   <trans-unit id="61">
+    <source>Apply for</source>
+    <target>التقدم بطلب للحصول على</target>
+   </trans-unit>
+   <trans-unit id="62">
+    <source>Approve</source>
+    <target>إعطاء موافقة</target>
+   </trans-unit>
+   <trans-unit id="63">
+    <source>Approved</source>
+    <target>تم الموافقة عليه</target>
+   </trans-unit>
+   <trans-unit id="64">
+    <source>April</source>
+    <target>أبريل</target>
+   </trans-unit>
+   <trans-unit id="65">
+    <source>are required</source>
+    <target>مطلوب</target>
+   </trans-unit>
+   <trans-unit id="66">
+    <source>Argentina</source>
+    <target>الأرجنتين</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="67">
+    <source>Argentina Pesos</source>
+    <target>بيزو أرجنتيني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="68">
+    <source>Argentine Peso</source>
+    <target>بيزو أرجنتينى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="69">
+    <source>Argentinean</source>
+    <target>أرجنتيني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="70">
+    <source>Arizona</source>
+    <target>أريزونا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="71">
+    <source>Arkansas</source>
+    <target>أركنساس</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="72">
+    <source>Armed Forces Americas (except Canada)</source>
+    <target>قوات الأمريكتين المسلحة ـ(بإستثناء كندا)ـ</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="73">
+    <source>Armed Forces Middle East</source>
+    <target>قوات الشرق الأوسط المسلحة</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="74">
+    <source>Armed Forces Pacific</source>
+    <target>قوات المحيط الهادئ المسلحة</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="75">
+    <source>Armenia</source>
+    <target>أرمينيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="76">
+    <source>Armenian</source>
+    <target>أرميني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="77">
+    <source>Aruba</source>
+    <target>أروبا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="78">
+    <source>Aruban Florin</source>
+    <target>جلدر أروبى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="79">
+    <source>Asia/Brunei</source>
+    <target>آسيا / بروناي</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="80">
+    <source>Asia/Dhaka</source>
+    <target>آسيا / دكا</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="81">
+    <source>Asia/Kolkata</source>
+    <target>آسيا / كلكتا</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="82">
+    <source>Asia/Krasnoyarsk</source>
+    <target>آسيا / كراسنويارسك</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="83">
+    <source>Asia/Kuwait</source>
+    <target>آسيا / الكويت</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="84">
+    <source>Asia/Magadan</source>
+    <target>آسيا / ماغادان</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="85">
+    <source>Asia/Muscat</source>
+    <target>آسيا / مسقط</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="86">
+    <source>Asia/Seoul</source>
+    <target>آسيا / سيول.</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="87">
+    <source>Asia/Yekaterinburg</source>
+    <target>آسيا / ايكاترينبرج</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="88">
+    <source>Assign Leave</source>
+    <target>تعيين أجازة</target>
+   </trans-unit>
+   <trans-unit id="89">
+    <source>Assigned Salary Components</source>
+    <target>مكونات الراتب المخصص</target>
+   </trans-unit>
+   <trans-unit id="90">
+    <source>Atlantic/Azores</source>
+    <target>الأطلسي / الازور</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="91">
+    <source>Atlantic/South_Georgia</source>
+    <target>الأطلسي / ساوث جورجيا</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="92">
+    <source>Attachment Size Exceeded</source>
+    <target>تم تجاوز حجم المرفقات</target>
+   </trans-unit>
+   <trans-unit id="93">
+    <source>Attachments</source>
+    <target>المرفقات</target>
+   </trans-unit>
+   <trans-unit id="94">
+    <source>Attendance</source>
+    <target>الحضور</target>
+   </trans-unit>
+   <trans-unit id="95">
+    <source>Attendance Summary</source>
+    <target>ملخص الحضور</target>
+   </trans-unit>
+   <trans-unit id="96">
+    <source>Audit Trail</source>
+    <target>مسار التدقيق</target>
+   </trans-unit>
+   <trans-unit id="97">
+    <source>August</source>
+    <target>أغسطس</target>
+   </trans-unit>
+   <trans-unit id="98">
+    <source>Australia</source>
+    <target>أستراليا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="99">
+    <source>Australia/Canberra</source>
+    <target>استراليا / كانبيرا</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="100">
+    <source>Australia/Darwin</source>
+    <target>أستراليا / داروين</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="101">
+    <source>Australian</source>
+    <target>أسترالي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="102">
+    <source>Australian Dollar</source>
+    <target>دولار أسترالي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="103">
+    <source>Austria</source>
+    <target>النمسا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="104">
+    <source>Austrian</source>
+    <target>نمساوي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="105">
+    <source>Azerbaijan</source>
+    <target>أذربيجان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="106">
+    <source>Azerbaijani</source>
+    <target>أذربيجاني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="107">
+    <source>Back</source>
+    <target>رجوع</target>
+   </trans-unit>
+   <trans-unit id="108">
+    <source>Back to Job List</source>
+    <target>عودة إلى قائمة الوظائف</target>
+   </trans-unit>
+   <trans-unit id="109">
+    <source>Bahamas</source>
+    <target>جزر البهاما</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="110">
+    <source>Bahamian</source>
+    <target>جزر البهاما</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="111">
+    <source>Bahamian Dollar</source>
+    <target>دولار جزر البهاما</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="112">
+    <source>Bahrain</source>
+    <target>البحرين</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="113">
+    <source>Bahraini</source>
+    <target>بحريني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="114">
+    <source>Bahraini Dinar</source>
+    <target>دينار بحريني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="115">
+    <source>Bangladesh</source>
+    <target>بنجلاديش</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="116">
+    <source>Bangladeshi</source>
+    <target>بنجلاديشي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="117">
+    <source>Bangladeshi Taka</source>
+    <target>تاكا بنجلاديشى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="118">
+    <source>Barbadian</source>
+    <target>بربادوسي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="119">
+    <source>Barbados</source>
+    <target>بربادوس</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="120">
+    <source>Barbados Dollar</source>
+    <target>دولار بربادوسي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="121">
+    <source>Barbudans</source>
+    <target>بربودي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="122">
+    <source>Basic</source>
+    <target>أساسي</target>
+   </trans-unit>
+   <trans-unit id="123">
+    <source>Batswana</source>
+    <target>بتسواني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="124">
+    <source>Belarus</source>
+    <target>روسيا البيضاء</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="125">
+    <source>Belarusian</source>
+    <target>بيلاروسي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="126">
+    <source>Belgian</source>
+    <target>بلجيكي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="127">
+    <source>Belgium</source>
+    <target>بلجيكا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="128">
+    <source>Belize</source>
+    <target>بليز</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="129">
+    <source>Belize Dollar</source>
+    <target>دولار بليزي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="130">
+    <source>Belizean</source>
+    <target>بليزي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="131">
+    <source>Benin</source>
+    <target>بنين</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="132">
+    <source>Beninese</source>
+    <target>بنيني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="133">
+    <source>Bermuda</source>
+    <target>برمودا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="134">
+    <source>Bermudian Dollar</source>
+    <target>دولار برمودي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="135">
+    <source>Bhutan</source>
+    <target>بوتان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="136">
+    <source>Bhutan Ngultrum</source>
+    <target>نولتوم بوتانى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="137">
+    <source>Bhutanese</source>
+    <target>بوتاني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="138">
+    <source>Blog</source>
+    <target>مدونة</target>
+   </trans-unit>
+   <trans-unit id="139">
+    <source>Bolivia</source>
+    <target>بوليفيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="140">
+    <source>Bolivian</source>
+    <target>بوليفي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="141">
+    <source>Bolivian Boliviano</source>
+    <target>بوليفيانو البوليفي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="142">
+    <source>Bosnia and Herzegovina</source>
+    <target>البوسنة والهرسك</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="143">
+    <source>Bosnian</source>
+    <target>بوتسواني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="144">
+    <source>Botswana</source>
+    <target>بوتسوانا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="145">
+    <source>Botswana Pula</source>
+    <target>بولا بوتسوانا</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="146">
+    <source>Bouvet Island</source>
+    <target>جزيرة بوفيه</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="147">
+    <source>Brazil</source>
+    <target>البرازيل</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="148">
+    <source>Brazilian</source>
+    <target>برازيلي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="149">
+    <source>Brazilian Real</source>
+    <target>ريال برازيلي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="150">
+    <source>British</source>
+    <target>بريطاني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="151">
+    <source>British Indian Ocean Territory</source>
+    <target>إقليم المحيط الهندي البريطاني</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="152">
+    <source>Brunei Darussalam</source>
+    <target>بروناي دار السلام</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="153">
+    <source>Brunei Dollar</source>
+    <target>دولار بروناي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="154">
+    <source>Bruneian</source>
+    <target>بروناي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="155">
+    <source>Bug Tracker</source>
+    <target>متعقب العلة</target>
+   </trans-unit>
+   <trans-unit id="156">
+    <source>Bulgaria</source>
+    <target>بلغاريا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="157">
+    <source>Bulgarian</source>
+    <target>بلغاري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="158">
+    <source>Bulgarian Lev</source>
+    <target>ليف بلغاري</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="159">
+    <source>Burkina Faso</source>
+    <target>بوركينا فاسو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="160">
+    <source>Burkinabe</source>
+    <target>بوركيني فاسو</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="161">
+    <source>Burmese</source>
+    <target>بورمي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="162">
+    <source>Burundi</source>
+    <target>بوروندي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="163">
+    <source>Burundi Franc</source>
+    <target>فرانك بوروندي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="164">
+    <source>Burundian</source>
+    <target>بوروندي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="165">
+    <source>California</source>
+    <target>كاليفورنيا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="166">
+    <source>Cambodia</source>
+    <target>كمبوديا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="167">
+    <source>Cambodian</source>
+    <target>كمبودي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="168">
+    <source>Cameroon</source>
+    <target>الكاميرون</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="169">
+    <source>Cameroonian</source>
+    <target>كاميروني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="170">
+    <source>Canada</source>
+    <target>كندا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="171">
+    <source>Canadian</source>
+    <target>كندي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="172">
+    <source>Canadian Dollar</source>
+    <target>دولار كندي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="173">
+    <source>Cancel</source>
+    <target>إلغاء</target>
+   </trans-unit>
+   <trans-unit id="174">
+    <source>Candidates</source>
+    <target>المرشحين</target>
+   </trans-unit>
+   <trans-unit id="175">
+    <source>Cape Verde</source>
+    <target>الرأس الأخضر</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="176">
+    <source>Cape Verde Escudo</source>
+    <target>اسكود الرأس الأخضر</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="177">
+    <source>Cape Verdean</source>
+    <target>الرأس الأخضر</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="178">
+    <source>Cayman Islands</source>
+    <target>جزر كايمان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="179">
+    <source>Cayman Islands Dollar</source>
+    <target>دولار جزر كايمان</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="180">
+    <source>Central African</source>
+    <target>افريقيا الوسطى</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="181">
+    <source>Central African Republic</source>
+    <target>جمهورية افريقيا الوسطى</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="182">
+    <source>CFA Franc BCEAO</source>
+    <target>فرنك BCEAO</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="183">
+    <source>CFA Franc BEAC</source>
+    <target>فرنك BEAC</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="184">
+    <source>CFP Franc</source>
+    <target>فرنك CFP</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="185">
+    <source>Chad</source>
+    <target>تشاد</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="186">
+    <source>Chadian</source>
+    <target>تشادي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="187">
+    <source>Change Password</source>
+    <target>تغيير كلمة السر</target>
+   </trans-unit>
+   <trans-unit id="188">
+    <source>Checking</source>
+    <target>يتم الفحص</target>
+   </trans-unit>
+   <trans-unit id="189">
+    <source>Chile</source>
+    <target>تشيلي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="190">
+    <source>Chilean</source>
+    <target>تشيلي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="191">
+    <source>Chilean Peso</source>
+    <target>بيزو تشيلى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="192">
+    <source>China</source>
+    <target>الصين</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="193">
+    <source>Chinese</source>
+    <target>صيني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="194">
+    <source>Chinese Yuan Renminbi</source>
+    <target>يوان صيني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="195">
+    <source>Christmas Island</source>
+    <target>جزيرة الكريسماس</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="196">
+    <source>City</source>
+    <target>مدينة</target>
+   </trans-unit>
+   <trans-unit id="197">
+    <source>Cocos (Keeling) Islands</source>
+    <target>جزر كوكوس</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="198">
+    <source>Collapse all</source>
+    <target>طي الكل</target>
+   </trans-unit>
+   <trans-unit id="199">
+    <source>Colombia</source>
+    <target>كولومبيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="200">
+    <source>Colombian</source>
+    <target>كولومبي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="201">
+    <source>Colombian Peso</source>
+    <target>بيزو كولومبي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="202">
+    <source>Colorado</source>
+    <target>كولورادو</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="203">
+    <source>Comment</source>
+    <target>تعليق</target>
+   </trans-unit>
+   <trans-unit id="204">
+    <source>Comments</source>
+    <target>تعليقات</target>
+   </trans-unit>
+   <trans-unit id="205">
+    <source>Comoran</source>
+    <target>جزر القمر</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="206">
+    <source>Comoros</source>
+    <target>جزر القمر</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="207">
+    <source>Comoros Franc</source>
+    <target>فرانك جزر القمر</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="208">
+    <source>Company</source>
+    <target>شركة</target>
+   </trans-unit>
+   <trans-unit id="209">
+    <source>Competency</source>
+    <target>كفاءة</target>
+   </trans-unit>
+   <trans-unit id="210">
+    <source>compulsory</source>
+    <target>إلزامي</target>
+   </trans-unit>
+   <trans-unit id="211">
+    <source>Configuration</source>
+    <target>تكوين</target>
+   </trans-unit>
+   <trans-unit id="212">
+    <source>Configure</source>
+    <target>تكوين</target>
+   </trans-unit>
+   <trans-unit id="213">
+    <source>Configure Security Authentication</source>
+    <target>تعديل المصادقة الأمنية</target>
+   </trans-unit>
+   <trans-unit id="214">
+    <source>Confirm Password</source>
+    <target>تأكيد كلمة السر</target>
+   </trans-unit>
+   <trans-unit id="215">
+    <source>Congo</source>
+    <target>الكونغو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="216">
+    <source>Congo, the Democratic Republic of the</source>
+    <target>الكونغو وجمهورية الكونغو الديمقراطية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="217">
+    <source>Congolese</source>
+    <target>الكونغولية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="218">
+    <source>Connecticut</source>
+    <target>كونيكتيكت</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="219">
+    <source>Contact Details</source>
+    <target>تفاصيل جهات الاتصال</target>
+   </trans-unit>
+   <trans-unit id="220">
+    <source>Contact No</source>
+    <target>رقم الاتصال</target>
+   </trans-unit>
+   <trans-unit id="221">
+    <source>Contract End Date</source>
+    <target>تاريخ نهاية العقد</target>
+   </trans-unit>
+   <trans-unit id="222">
+    <source>Contract Not Renewed</source>
+    <target>العقد لم يجدد</target>
+   </trans-unit>
+   <trans-unit id="223">
+    <source>Contract Start Date</source>
+    <target>تاريخ المباشرة</target>
+   </trans-unit>
+   <trans-unit id="224">
+    <source>Cook Islands</source>
+    <target>جزر كوك</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="225">
+    <source>Copy</source>
+    <target>نسخ</target>
+   </trans-unit>
+   <trans-unit id="226">
+    <source>Copy From</source>
+    <target>نسخ من</target>
+   </trans-unit>
+   <trans-unit id="227">
+    <source>Copy KPI</source>
+    <target>انسخ مؤشر قياس الأداء</target>
+   </trans-unit>
+   <trans-unit id="228">
+    <source>Costa Rica</source>
+    <target>كوستاريكا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="229">
+    <source>Costa Rican</source>
+    <target>كوستاريكا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="230">
+    <source>Costa Rican Colon</source>
+    <target>كولون كوستاريكي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="231">
+    <source>Cote D'Ivoire</source>
+    <target>ساحل العاج</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="232">
+    <source>Country</source>
+    <target>بلد</target>
+   </trans-unit>
+   <trans-unit id="233">
+    <source>Croatia</source>
+    <target>كرواتيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="234">
+    <source>Croatian</source>
+    <target>كرواتي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="235">
+    <source>Croatian Kuna</source>
+    <target>كونا كرواتي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="236">
+    <source>Cuba</source>
+    <target>كوبا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="237">
+    <source>Cuban</source>
+    <target>كوبي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="238">
+    <source>Cuban Peso</source>
+    <target>بيزو كوبي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="239">
+    <source>Currency</source>
+    <target>عملة</target>
+   </trans-unit>
+   <trans-unit id="240">
+    <source>Current and Past Employees</source>
+    <target>الموظفون الحاليون والسابقون</target>
+   </trans-unit>
+   <trans-unit id="241">
+    <source>Current Employees Only</source>
+    <target>الموظفون الحاليون فقط</target>
+   </trans-unit>
+   <trans-unit id="242">
+    <source>Current Status</source>
+    <target>الوضع الحالي</target>
+   </trans-unit>
+   <trans-unit id="243">
+    <source>Custom Fields</source>
+    <target>حقول مخصصة</target>
+   </trans-unit>
+   <trans-unit id="244">
+    <source>Customers</source>
+    <target>الزبائن</target>
+   </trans-unit>
+   <trans-unit id="245">
+    <source>Customizations</source>
+    <target>التخصيصات</target>
+   </trans-unit>
+   <trans-unit id="246">
+    <source>Cypriot</source>
+    <target>قبرصي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="247">
+    <source>Cyprus</source>
+    <target>قبرص</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="248">
+    <source>Cyprus Pound</source>
+    <target>الجنيه القبرصي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="249">
+    <source>Czech</source>
+    <target>التشيكية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="250">
+    <source>Czech Koruna</source>
+    <target>الكورونا التشيكية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="251">
+    <source>Czech Republic</source>
+    <target>جمهورية التشيك</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="252">
+    <source>Danish</source>
+    <target>دانماركي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="253">
+    <source>Danish Krona</source>
+    <target>الكرونا الدانماركية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="254">
+    <source>Data Import</source>
+    <target>استيراد البيانات</target>
+   </trans-unit>
+   <trans-unit id="255">
+    <source>Date</source>
+    <target>تاريخ</target>
+   </trans-unit>
+   <trans-unit id="256">
+    <source>Date Added</source>
+    <target>تاريخ الاضافة</target>
+   </trans-unit>
+   <trans-unit id="257">
+    <source>Date of Birth</source>
+    <target>تاريخ الميلاد</target>
+   </trans-unit>
+   <trans-unit id="258">
+    <source>Days</source>
+    <target>أيام</target>
+   </trans-unit>
+   <trans-unit id="259">
+    <source>Deceased</source>
+    <target>متوفى</target>
+   </trans-unit>
+   <trans-unit id="260">
+    <source>December</source>
+    <target>ديسمبر</target>
+   </trans-unit>
+   <trans-unit id="261">
+    <source>Define Report</source>
+    <target>حدد التقرير</target>
+   </trans-unit>
+   <trans-unit id="262">
+    <source>Defined Custom Fields</source>
+    <target>حقول مخصصة محددة</target>
+   </trans-unit>
+   <trans-unit id="263">
+    <source>Delaware</source>
+    <target>ولاية ديلاوير</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="264">
+    <source>Delete</source>
+    <target>حذف</target>
+   </trans-unit>
+   <trans-unit id="265">
+    <source>Delete Current</source>
+    <target>حذف الحالي</target>
+   </trans-unit>
+   <trans-unit id="266">
+    <source>Delete records?</source>
+    <target>حذف السجلات؟</target>
+   </trans-unit>
+   <trans-unit id="267">
+    <source>Delete?</source>
+    <target>حذف؟</target>
+   </trans-unit>
+   <trans-unit id="268">
+    <source>Deleted</source>
+    <target>تم حذفه</target>
+   </trans-unit>
+   <trans-unit id="269">
+    <source>Deleted Employee</source>
+    <target>حذف موظف</target>
+   </trans-unit>
+   <trans-unit id="270">
+    <source>Denmark</source>
+    <target>الدنمارك</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="271">
+    <source>Dependents</source>
+    <target>المعالين</target>
+   </trans-unit>
+   <trans-unit id="272">
+    <source>Description</source>
+    <target>وصف</target>
+   </trans-unit>
+   <trans-unit id="273">
+    <source>Dimensions</source>
+    <target>الأبعاد</target>
+   </trans-unit>
+   <trans-unit id="274">
+    <source>Direct</source>
+    <target>توجيه</target>
+   </trans-unit>
+   <trans-unit id="275">
+    <source>Direct Deposit Account Number</source>
+    <target>رقم حساب الإداع المباشر</target>
+   </trans-unit>
+   <trans-unit id="276">
+    <source>Direct Deposit Account Type</source>
+    <target>نوع حساب الإداع المباشر</target>
+   </trans-unit>
+   <trans-unit id="277">
+    <source>Direct Deposit Amount</source>
+    <target>مبلغ الإيداع مباشرة</target>
+   </trans-unit>
+   <trans-unit id="278">
+    <source>Direct Deposit Details</source>
+    <target>تفاصيل الإيداع المباشر</target>
+   </trans-unit>
+   <trans-unit id="279">
+    <source>Direct Deposit Routing Number</source>
+    <target>رقم توجيه الإيداع المباشر</target>
+   </trans-unit>
+   <trans-unit id="280">
+    <source>Disabled</source>
+    <target>تعطيل</target>
+   </trans-unit>
+   <trans-unit id="281">
+    <source>Dismissed</source>
+    <target>صُرف</target>
+   </trans-unit>
+   <trans-unit id="282">
+    <source>Display Field Groups</source>
+    <target>عرض مجموعات الحقول</target>
+   </trans-unit>
+   <trans-unit id="283">
+    <source>Display Fields</source>
+    <target>عرض الحقول</target>
+   </trans-unit>
+   <trans-unit id="284">
+    <source>District of Columbia</source>
+    <target>مقاطعة كولومبيا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="285">
+    <source>Djibouti</source>
+    <target>جيبوتي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="286">
+    <source>Djibouti Franc</source>
+    <target>فرنك جيبوتى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="287">
+    <source>Document Type</source>
+    <target>نوع الوثيقة</target>
+   </trans-unit>
+   <trans-unit id="288">
+    <source>Dominica</source>
+    <target>دومينيكا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="289">
+    <source>Dominican</source>
+    <target>الدومينيكان</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="290">
+    <source>Dominican Peso</source>
+    <target>بيزو الجمهورية الدومينيكية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="291">
+    <source>Dominican Republic</source>
+    <target>جمهورية الدومينيكان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="292">
+    <source>Download</source>
+    <target>تنزيل</target>
+   </trans-unit>
+   <trans-unit id="293">
+    <source>Driver License Number</source>
+    <target>رقم رخصة القيادة</target>
+   </trans-unit>
+   <trans-unit id="294">
+    <source>Driver's License Number</source>
+    <target>رقم رخصة القيادة</target>
+   </trans-unit>
+   <trans-unit id="295">
+    <source>Due date should be after from date</source>
+    <target>ينبغي أن يكون تاريخ الاستحقاق بعد تاريخ البدء</target>
+   </trans-unit>
+   <trans-unit id="296">
+    <source>Duration</source>
+    <target>مدة</target>
+   </trans-unit>
+   <trans-unit id="297">
+    <source>Dutch</source>
+    <target>هولندي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="298">
+    <source>Duties</source>
+    <target>واجبات</target>
+   </trans-unit>
+   <trans-unit id="299">
+    <source>East Timorese</source>
+    <target>تيمور الشرقية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="300">
+    <source>Eastern Caribbean Dollars</source>
+    <target>دولار شرق الكاريبي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="301">
+    <source>Ecuador</source>
+    <target>الاكوادور</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="302">
+    <source>Ecuador Sucre</source>
+    <target>الاكوادور سوكري</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="303">
+    <source>Ecuadorean</source>
+    <target>إكوادوري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="304">
+    <source>Edit</source>
+    <target>تحرير</target>
+   </trans-unit>
+   <trans-unit id="305">
+    <source>Edit Attachment</source>
+    <target>تعديل المرفقات</target>
+   </trans-unit>
+   <trans-unit id="306">
+    <source>Edit Education</source>
+    <target>تحريرالتعليم</target>
+   </trans-unit>
+   <trans-unit id="307">
+    <source>Edit Immigration</source>
+    <target>تعديل الهجرة</target>
+   </trans-unit>
+   <trans-unit id="308">
+    <source>Edit Language</source>
+    <target>تحرير اللغة</target>
+   </trans-unit>
+   <trans-unit id="309">
+    <source>Edit License</source>
+    <target>تحرير رخصة</target>
+   </trans-unit>
+   <trans-unit id="310">
+    <source>Edit Salary Component</source>
+    <target>تعديل مكونات الراتب</target>
+   </trans-unit>
+   <trans-unit id="311">
+    <source>Edit Skill</source>
+    <target>تحرير مهارة</target>
+   </trans-unit>
+   <trans-unit id="312">
+    <source>Education</source>
+    <target>تعليم</target>
+   </trans-unit>
+   <trans-unit id="313">
+    <source>Egypt</source>
+    <target>المصرية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="314">
+    <source>Egyptian</source>
+    <target>مصري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="315">
+    <source>Egyptian Pound</source>
+    <target>الجنيه المصري</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="316">
+    <source>El Salvador</source>
+    <target>السلفادور</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="317">
+    <source>El Salvador Colon</source>
+    <target>كولون السلفادور</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="318">
+    <source>Eligible</source>
+    <target>مؤهل</target>
+   </trans-unit>
+   <trans-unit id="319">
+    <source>Eligible Review Date</source>
+    <target>تاريخ مراجعة المؤهل</target>
+   </trans-unit>
+   <trans-unit id="320">
+    <source>Eligible Status</source>
+    <target>وضع المؤهل</target>
+   </trans-unit>
+   <trans-unit id="321">
+    <source>Email</source>
+    <target>البريد الإلكتروني</target>
+   </trans-unit>
+   <trans-unit id="322">
+    <source>Email Notifications</source>
+    <target>البريد الالكتروني التبليغات</target>
+   </trans-unit>
+   <trans-unit id="323">
+    <source>Emergency Contacts</source>
+    <target>جهات اتصال للطوارئ</target>
+   </trans-unit>
+   <trans-unit id="324">
+    <source>Emirian</source>
+    <target>الإماراتية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="325">
+    <source>Employee</source>
+    <target>موظف</target>
+   </trans-unit>
+   <trans-unit id="326">
+    <source>Employee First Name</source>
+    <target>اسم الموظف الأول</target>
+   </trans-unit>
+   <trans-unit id="327">
+    <source>Employee Id</source>
+    <target>المعرف الوحيد</target>
+   </trans-unit>
+   <trans-unit id="328">
+    <source>Employee Last Name</source>
+    <target>إسم عائلة الموظف</target>
+   </trans-unit>
+   <trans-unit id="329">
+    <source>Employee List</source>
+    <target>قائمة الموظفين</target>
+   </trans-unit>
+   <trans-unit id="330">
+    <source>Employee Middle Name</source>
+    <target>إسم الأب للموظف</target>
+   </trans-unit>
+   <trans-unit id="331">
+    <source>Employee Name</source>
+    <target>اسم الموظف</target>
+   </trans-unit>
+   <trans-unit id="332">
+    <source>Employee Records</source>
+    <target>سجلات الموظفين</target>
+   </trans-unit>
+   <trans-unit id="333">
+    <source>Employee Reports</source>
+    <target>تقارير الموظفين</target>
+   </trans-unit>
+   <trans-unit id="334">
+    <source>Employee Timesheets</source>
+    <target>الجداول الزمنية للموظفين</target>
+   </trans-unit>
+   <trans-unit id="335">
+    <source>Employment Status</source>
+    <target>الحالة الوظيفية</target>
+   </trans-unit>
+   <trans-unit id="336">
+    <source>Enabled</source>
+    <target>تمكين</target>
+   </trans-unit>
+   <trans-unit id="337">
+    <source>End Date</source>
+    <target>تاريخ النهاية</target>
+   </trans-unit>
+   <trans-unit id="338">
+    <source>End date should be after start date</source>
+    <target>تاريخ النهاية يجب أن يكون بعد تاريخ البدء</target>
+   </trans-unit>
+   <trans-unit id="339">
+    <source>Enter comma separated words</source>
+    <target>أدخل كلمات بينها فواصل </target>
+   </trans-unit>
+   <trans-unit id="340">
+    <source>Equatorial Guinea</source>
+    <target>غينيا الاستوائية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="341">
+    <source>Equatorial Guinean</source>
+    <target>غينيا الاستوائية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="342">
+    <source>Eritrea</source>
+    <target>اريتريا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="343">
+    <source>Eritrean</source>
+    <target>الاريترية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="344">
+    <source>ESS</source>
+    <target>ESS</target>
+   </trans-unit>
+   <trans-unit id="345">
+    <source>Estonia</source>
+    <target>استونيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="346">
+    <source>Estonian</source>
+    <target>الأستونية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="347">
+    <source>Estonian Krona</source>
+    <target>الاستونية كرونة</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="348">
+    <source>Ethiopia</source>
+    <target>أثيوبيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="349">
+    <source>Ethiopian</source>
+    <target>الاثيوبية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="350">
+    <source>Ethiopian Birr</source>
+    <target>بير أثيوبى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="351">
+    <source>Euro</source>
+    <target>اليورو</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="352">
+    <source>Europe/Belgrade</source>
+    <target>أوروبا / بلغراد</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="353">
+    <source>Europe/Minsk</source>
+    <target>أوروبا / منسك</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="354">
+    <source>Expand all</source>
+    <target>توسيع الكل</target>
+   </trans-unit>
+   <trans-unit id="355">
+    <source>Expected format: admin@example.com</source>
+    <target>الشكل المتوقع: admin@example.com</target>
+   </trans-unit>
+   <trans-unit id="356">
+    <source>Expiry Date</source>
+    <target>تاريخ انتهاء الصلاحية</target>
+   </trans-unit>
+   <trans-unit id="357">
+    <source>Expiry date should be after issued date</source>
+    <target>ينبغي أن يكون تاريخ انتهاء الصلاحية بعد تاريخ الإصدار</target>
+   </trans-unit>
+   <trans-unit id="358">
+    <source>Failed to Save</source>
+    <target>فشل في الحفظ</target>
+   </trans-unit>
+   <trans-unit id="359">
+    <source>Failed to Save: File Size Exceeded</source>
+    <target>فشلت في الحفظ: حجم الملف تجاوز الحد المسموح</target>
+   </trans-unit>
+   <trans-unit id="360">
+    <source>Failed to Save: File Type Not Allowed</source>
+    <target>فشل في الحفظ: نوع الملف غير مسموح</target>
+   </trans-unit>
+   <trans-unit id="361">
+    <source>Falkland Islands (Malvinas)</source>
+    <target>جزر فوكلاند (مالفيناس)</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="362">
+    <source>Falkland Islands Pound</source>
+    <target>جنيه جزر فوكلاند</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="363">
+    <source>Faroe Islands</source>
+    <target>جزر فارو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="364">
+    <source>February</source>
+    <target>فبراير</target>
+   </trans-unit>
+   <trans-unit id="365">
+    <source>Federated States of Micronesia</source>
+    <target>ولايات ميكرونيزيا الموحدة</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="366">
+    <source>Female</source>
+    <target>أنثى</target>
+   </trans-unit>
+   <trans-unit id="367">
+    <source>Field</source>
+    <target>حقل</target>
+   </trans-unit>
+   <trans-unit id="368">
+    <source>Fields</source>
+    <target>الحقول</target>
+   </trans-unit>
+   <trans-unit id="369">
+    <source>Fields marked with an asterisk</source>
+    <target>الحقول التي تحمل علامة النجمة</target>
+   </trans-unit>
+   <trans-unit id="370">
+    <source>Fiji</source>
+    <target>فيجي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="371">
+    <source>Fiji Dollar</source>
+    <target>دولار فيجي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="372">
+    <source>Fijian</source>
+    <target>الفيجية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="373">
+    <source>File Name</source>
+    <target>إسم الملف</target>
+   </trans-unit>
+   <trans-unit id="374">
+    <source>Filipino</source>
+    <target>الفلبينية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="375">
+    <source>Finland</source>
+    <target>فنلندا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="376">
+    <source>Finnish</source>
+    <target>فنلندية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="377">
+    <source>First</source>
+    <target>الأول</target>
+   </trans-unit>
+   <trans-unit id="378">
+    <source>First Name</source>
+    <target>الاسم الأول</target>
+   </trans-unit>
+   <trans-unit id="379">
+    <source>Florida</source>
+    <target>فلوريدا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="380">
+    <source>Fluency</source>
+    <target>طلاقة</target>
+   </trans-unit>
+   <trans-unit id="381">
+    <source>for</source>
+    <target>لأجل</target>
+   </trans-unit>
+   <trans-unit id="382">
+    <source>format</source>
+    <target>شكل</target>
+   </trans-unit>
+   <trans-unit id="383">
+    <source>Forum</source>
+    <target>المنتدى</target>
+   </trans-unit>
+   <trans-unit id="384">
+    <source>France</source>
+    <target>فرنسا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="385">
+    <source>French</source>
+    <target>فرنسي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="386">
+    <source>French Guiana</source>
+    <target>جويانا الفرنسية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="387">
+    <source>French Polynesia</source>
+    <target>بولينيزيا الفرنسية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="388">
+    <source>French Southern Territories</source>
+    <target>الأقاليم الجنوبية الفرنسية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="389">
+    <source>Friday</source>
+    <target>الجمعة</target>
+   </trans-unit>
+   <trans-unit id="390">
+    <source>From</source>
+    <target>من</target>
+   </trans-unit>
+   <trans-unit id="391">
+    <source>Full Name</source>
+    <target>الاسم الكامل</target>
+   </trans-unit>
+   <trans-unit id="392">
+    <source>Full Time Contract</source>
+    <target>عقد دوام كامل</target>
+   </trans-unit>
+   <trans-unit id="393">
+    <source>Full Time Internship</source>
+    <target>عقد دوام تدريب</target>
+   </trans-unit>
+   <trans-unit id="394">
+    <source>Full Time Permanent</source>
+    <target>دوام كامل و دائم</target>
+   </trans-unit>
+   <trans-unit id="395">
+    <source>Gabon</source>
+    <target>الجابون</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="396">
+    <source>Gabonese</source>
+    <target>الغابون</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="397">
+    <source>Gambia</source>
+    <target>غامبيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="398">
+    <source>Gambian</source>
+    <target>الغامبي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="399">
+    <source>Gambian Dalasi</source>
+    <target>دالاسي غامبي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="400">
+    <source>Gender</source>
+    <target>الجنس</target>
+   </trans-unit>
+   <trans-unit id="401">
+    <source>General Information</source>
+    <target>معلومات عامة</target>
+   </trans-unit>
+   <trans-unit id="402">
+    <source>Georgia</source>
+    <target>جورجيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="403">
+    <source>Georgian</source>
+    <target>الجورجية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="404">
+    <source>German</source>
+    <target>ألماني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="405">
+    <source>Germany</source>
+    <target>ألمانيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="406">
+    <source>Ghana</source>
+    <target>غانا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="407">
+    <source>Ghanaian</source>
+    <target>الغاني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="408">
+    <source>Ghanaian Cedi</source>
+    <target>سيدي الغاني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="409">
+    <source>Gibraltar</source>
+    <target>جبل طارق</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="410">
+    <source>Gibraltar Pound</source>
+    <target>جنيه جبل طارق</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="411">
+    <source>Gold (oz.)</source>
+    <target>الذهب (أونصة)</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="412">
+    <source>Good</source>
+    <target>جيد</target>
+   </trans-unit>
+   <trans-unit id="413">
+    <source>Greater Than</source>
+    <target>أكبر من</target>
+   </trans-unit>
+   <trans-unit id="414">
+    <source>Greece</source>
+    <target>اليونان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="415">
+    <source>Greek</source>
+    <target>يوناني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="416">
+    <source>Greenland</source>
+    <target>غرينلاند</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="417">
+    <source>Grenada</source>
+    <target>غرينادا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="418">
+    <source>Grenadian</source>
+    <target>جرينادا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="419">
+    <source>Guadeloupe</source>
+    <target>جوادلوب</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="420">
+    <source>Guam</source>
+    <target>غوام</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="421">
+    <source>Guatemala</source>
+    <target>غواتيمالا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="422">
+    <source>Guatemalan</source>
+    <target>الغواتيمالي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="423">
+    <source>Guatemalan Quetzal</source>
+    <target>غواتيمالا كويتزال</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="424">
+    <source>Guinea</source>
+    <target>غينيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="425">
+    <source>Guinea Franc</source>
+    <target>غينيا الفرنك</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="426">
+    <source>Guinea-Bissau</source>
+    <target>غينيا بيساو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="427">
+    <source>Guinea-Bissauan</source>
+    <target>غينيا Bissauan</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="428">
+    <source>Guinean</source>
+    <target>الغيني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="429">
+    <source>Guyana</source>
+    <target>غيانا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="430">
+    <source>Guyanan Dollar</source>
+    <target>جويانا دولار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="431">
+    <source>Guyanese</source>
+    <target>جويانا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="432">
+    <source>Haiti</source>
+    <target>هايتي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="433">
+    <source>Haitian</source>
+    <target>الهايتية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="434">
+    <source>Haitian Gourde</source>
+    <target>جوردى هايتى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="435">
+    <source>Hawaii</source>
+    <target>هاواي</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="436">
+    <source>Heard Island and Mcdonald Islands</source>
+    <target>جزيرة هيرد وجزر ماكدونالد</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="437">
+    <source>Help</source>
+    <target>مساعدة</target>
+   </trans-unit>
+   <trans-unit id="438">
+    <source>Herzegovinian</source>
+    <target>هيرزيجوفيني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="439">
+    <source>Hide Details</source>
+    <target>إخفاء تفاصيل</target>
+   </trans-unit>
+   <trans-unit id="440">
+    <source>Holidays</source>
+    <target>أيام العطل</target>
+   </trans-unit>
+   <trans-unit id="441">
+    <source>Holy See (Vatican City State)</source>
+    <target>الكرسي الرسولي (دولة الفاتيكان)</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="442">
+    <source>Home Telephone</source>
+    <target>هاتف المنزل</target>
+   </trans-unit>
+   <trans-unit id="443">
+    <source>Honduran</source>
+    <target>هندوراس</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="444">
+    <source>Honduran Lempira</source>
+    <target>الهندوراسي مبيرا</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="445">
+    <source>Honduras</source>
+    <target>هندوراس</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="446">
+    <source>Hong Kong</source>
+    <target>هونج كونج</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="447">
+    <source>Hong Kong Dollar</source>
+    <target>دولار هونج كونج</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="448">
+    <source>Hours</source>
+    <target>ساعات</target>
+   </trans-unit>
+   <trans-unit id="449">
+    <source>Hungarian</source>
+    <target>المجري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="450">
+    <source>Hungarian Forint</source>
+    <target>الفورنت الهنغاري</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="451">
+    <source>Hungary</source>
+    <target>هنغاريا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="452">
+    <source>I-Kiribati</source>
+    <target>I-كيريباتي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="453">
+    <source>Iceland</source>
+    <target>أيسلندا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="454">
+    <source>Iceland Krona</source>
+    <target>أيسلندا الكرونا</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="455">
+    <source>Icelander</source>
+    <target>الايسلندي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="456">
+    <source>Id</source>
+    <target>معرف</target>
+   </trans-unit>
+   <trans-unit id="457">
+    <source>Idaho</source>
+    <target>ايداهو</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="458">
+    <source>Illinois</source>
+    <target>إلينوي</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="459">
+    <source>IMF Special Drawing Right</source>
+    <target>صندوق النقد الدولي حقوق السحب الخاصة</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="460">
+    <source>Immigration</source>
+    <target>هجرة</target>
+   </trans-unit>
+   <trans-unit id="461">
+    <source>Include</source>
+    <target>يشمل</target>
+   </trans-unit>
+   <trans-unit id="462">
+    <source>Include Header</source>
+    <target>يشمل الترويسة</target>
+   </trans-unit>
+   <trans-unit id="463">
+    <source>Include Past Employees</source>
+    <target>يشمل الموظفين السابقين</target>
+   </trans-unit>
+   <trans-unit id="464">
+    <source>India</source>
+    <target>الهند</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="465">
+    <source>Indian</source>
+    <target>هندي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="466">
+    <source>Indian Rupee</source>
+    <target>الروبية الهندية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="467">
+    <source>Indiana</source>
+    <target>إنديانا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="468">
+    <source>Indirect</source>
+    <target>غير مباشر</target>
+   </trans-unit>
+   <trans-unit id="469">
+    <source>Individual</source>
+    <target>فرد</target>
+   </trans-unit>
+   <trans-unit id="470">
+    <source>Indonesia</source>
+    <target>أندونيسيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="471">
+    <source>Indonesian</source>
+    <target>الأندونيسية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="472">
+    <source>Indonesian Rupiah</source>
+    <target>الروبية الاندونيسية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="473">
+    <source>Invalid</source>
+    <target>باطل</target>
+   </trans-unit>
+   <trans-unit id="474">
+    <source>Invalid credentials</source>
+    <target>أوراق اعتماد غير صالحة</target>
+   </trans-unit>
+   <trans-unit id="475">
+    <source>Invalid Date</source>
+    <target>تاريخ غير صالح</target>
+   </trans-unit>
+   <trans-unit id="476">
+    <source>Invalid Employee</source>
+    <target>موظف غير متاح</target>
+   </trans-unit>
+   <trans-unit id="477">
+    <source>Invalid Employee Name</source>
+    <target>اسم الموظف غير صالح</target>
+   </trans-unit>
+   <trans-unit id="478">
+    <source>Invalid File Type</source>
+    <target>نوع الملف غير مقبول</target>
+   </trans-unit>
+   <trans-unit id="479">
+    <source>Iowa</source>
+    <target>ولاية ايوا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="480">
+    <source>Iran, Islamic Republic of</source>
+    <target>إيران، الجمهورية الإسلامية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="481">
+    <source>Iranian</source>
+    <target>إيراني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="482">
+    <source>Iranian Rial</source>
+    <target>الريال الإيراني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="483">
+    <source>Iraq</source>
+    <target>العراق</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="484">
+    <source>Iraqi</source>
+    <target>عراقي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="485">
+    <source>Iraqi Dinar</source>
+    <target>الدينار العراقي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="486">
+    <source>Ireland</source>
+    <target>أيرلندا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="487">
+    <source>Irish</source>
+    <target>الأيرلندية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="488">
+    <source>Israel</source>
+    <target>إسرائيل</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="489">
+    <source>Israeli</source>
+    <target>إسرائيلي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="490">
+    <source>Israeli New Shekel</source>
+    <target>الشيكل الاسرائيلي الجديد</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="491">
+    <source>Issued By</source>
+    <target>صدر عن</target>
+   </trans-unit>
+   <trans-unit id="492">
+    <source>Issued Date</source>
+    <target>تاريخ الاصدار</target>
+   </trans-unit>
+   <trans-unit id="493">
+    <source>Italian</source>
+    <target>الإيطالي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="494">
+    <source>Italy</source>
+    <target>إيطاليا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="495">
+    <source>Ivorian</source>
+    <target>ساحل العاج</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="496">
+    <source>Jamaica</source>
+    <target>جامايكا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="497">
+    <source>Jamaican</source>
+    <target>الجامايكي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="498">
+    <source>Jamaican Dollar</source>
+    <target>الجامايكي الدولار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="499">
+    <source>January</source>
+    <target>يناير</target>
+   </trans-unit>
+   <trans-unit id="500">
+    <source>Japan</source>
+    <target>اليابان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="501">
+    <source>Japanese</source>
+    <target>اليابانية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="502">
+    <source>Japanese Yen</source>
+    <target>الين الياباني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="503">
+    <source>Job</source>
+    <target>وظيفة</target>
+   </trans-unit>
+   <trans-unit id="504">
+    <source>Job Categories</source>
+    <target>تصنيفات الوظيفة</target>
+   </trans-unit>
+   <trans-unit id="505">
+    <source>Job Category</source>
+    <target>الرتبة</target>
+   </trans-unit>
+   <trans-unit id="506">
+    <source>Job Specification</source>
+    <target>مواصفات وظيفة</target>
+   </trans-unit>
+   <trans-unit id="507">
+    <source>Job Title</source>
+    <target>المسمى الوظيفي</target>
+   </trans-unit>
+   <trans-unit id="508">
+    <source>Job Titles</source>
+    <target>عنوان الوظيفة</target>
+   </trans-unit>
+   <trans-unit id="509">
+    <source>Join the OrangeHRM User Community</source>
+    <target>انضم إلى مجتمع مستخدمي OrangeHRM</target>
+   </trans-unit>
+   <trans-unit id="510">
+    <source>Joined After</source>
+    <target>انضم بعد</target>
+   </trans-unit>
+   <trans-unit id="511">
+    <source>Joined Before</source>
+    <target>انضم قبل</target>
+   </trans-unit>
+   <trans-unit id="512">
+    <source>Joined Date</source>
+    <target>تاريخ الترسيم</target>
+   </trans-unit>
+   <trans-unit id="513">
+    <source>Joined in Between</source>
+    <target>انضم في الفترة ما بين</target>
+   </trans-unit>
+   <trans-unit id="514">
+    <source>Jordan</source>
+    <target>الأردن</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="515">
+    <source>Jordanian</source>
+    <target>أردني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="516">
+    <source>Jordanian Dinar</source>
+    <target>الدينار الاردني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="517">
+    <source>July</source>
+    <target>يوليو</target>
+   </trans-unit>
+   <trans-unit id="518">
+    <source>June</source>
+    <target>يونيو</target>
+   </trans-unit>
+   <trans-unit id="519">
+    <source>Kampuchean Riel</source>
+    <target>كمبوتشيا ريل</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="520">
+    <source>Kansas</source>
+    <target>كانساس</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="521">
+    <source>Kazakhstan</source>
+    <target>كازاخستان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="522">
+    <source>Kazakhstan Tenge</source>
+    <target>كازاخستان تنغ</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="523">
+    <source>Kazakhstani</source>
+    <target>الكازاخستاني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="524">
+    <source>Keep Current</source>
+    <target>ابقاء الحالي</target>
+   </trans-unit>
+   <trans-unit id="525">
+    <source>Kentucky</source>
+    <target>كنتاكي</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="526">
+    <source>Kenya</source>
+    <target>كينيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="527">
+    <source>Kenyan</source>
+    <target>الكيني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="528">
+    <source>Kenyan Shilling</source>
+    <target>شلن كيني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="529">
+    <source>Keywords</source>
+    <target>كلمات أساسية</target>
+   </trans-unit>
+   <trans-unit id="530">
+    <source>Kiribati</source>
+    <target>كيريباتي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="531">
+    <source>Kittian and Nevisian</source>
+    <target>كيتياني ونيفيشياني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="532">
+    <source>Korea, Democratic People's Republic of</source>
+    <target>كوريا الشعبية الديمقراطية، جمهورية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="533">
+    <source>Korea, Republic of</source>
+    <target>جمهورية كوريا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="534">
+    <source>Korean Won</source>
+    <target>ون كوري</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="535">
+    <source>KPI List</source>
+    <target>قائمة مؤشرات قياس الأداء</target>
+   </trans-unit>
+   <trans-unit id="536">
+    <source>Kuwait</source>
+    <target>الكويت</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="537">
+    <source>Kuwaiti</source>
+    <target>كويتي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="538">
+    <source>Kuwaiti Dinar</source>
+    <target>دينار كويتى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="539">
+    <source>Kyrgyz</source>
+    <target>قرغيزستان</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="540">
+    <source>Kyrgyzstan</source>
+    <target>قرغيزستان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="541">
+    <source>Laid-off</source>
+    <target>إقالة</target>
+   </trans-unit>
+   <trans-unit id="542">
+    <source>Language</source>
+    <target>لغة</target>
+   </trans-unit>
+   <trans-unit id="543">
+    <source>Languages</source>
+    <target>لغات</target>
+   </trans-unit>
+   <trans-unit id="544">
+    <source>Lao Kip</source>
+    <target>كيب لاوسي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="545">
+    <source>Lao People's Democratic Republic</source>
+    <target>جمهورية لاو الديمقراطية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="546">
+    <source>Laotian</source>
+    <target>اللاوسي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="547">
+    <source>Last</source>
+    <target>آخر</target>
+   </trans-unit>
+   <trans-unit id="548">
+    <source>Last Name</source>
+    <target>اسم العائلة</target>
+   </trans-unit>
+   <trans-unit id="549">
+    <source>Latvia</source>
+    <target>لاتفيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="550">
+    <source>Latvian</source>
+    <target>لاتفيا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="551">
+    <source>Latvian Lats</source>
+    <target>لاتس لاتفيا</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="552">
+    <source>Leave</source>
+    <target>إجازة</target>
+   </trans-unit>
+   <trans-unit id="553">
+    <source>Leave Balance (Days)</source>
+    <target>رصيد الإجازة (أيام)</target>
+   </trans-unit>
+   <trans-unit id="554">
+    <source>Leave Calendar</source>
+    <target>تقويم الإجازة</target>
+   </trans-unit>
+   <trans-unit id="555">
+    <source>Leave Entitled (Days)</source>
+    <target>إجازة مستحقة (أيام)</target>
+   </trans-unit>
+   <trans-unit id="556">
+    <source>Leave List</source>
+    <target>قائمة الإجازات</target>
+   </trans-unit>
+   <trans-unit id="557">
+    <source>Leave Period</source>
+    <target>فترة الإجازة</target>
+   </trans-unit>
+   <trans-unit id="558">
+    <source>Leave Scheduled (Days)</source>
+    <target>إجازة مجدولة (أيام)</target>
+   </trans-unit>
+   <trans-unit id="559">
+    <source>Leave Summary</source>
+    <target>ملخص الإجازات</target>
+   </trans-unit>
+   <trans-unit id="560">
+    <source>Leave Taken (Days)</source>
+    <target>إجازة مستغلة (أيام)</target>
+   </trans-unit>
+   <trans-unit id="561">
+    <source>Leave Types</source>
+    <target>أنواع الإجازات</target>
+   </trans-unit>
+   <trans-unit id="562">
+    <source>Lebanese</source>
+    <target>لبنانية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="563">
+    <source>Lebanese Pound</source>
+    <target>الجنيه اللبناني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="564">
+    <source>Lebanon</source>
+    <target>لبنان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="565">
+    <source>Lesotho</source>
+    <target>ليسوتو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="566">
+    <source>Lesotho Loti</source>
+    <target>لوتى ليسوتو</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="567">
+    <source>Less Than</source>
+    <target>أقل من</target>
+   </trans-unit>
+   <trans-unit id="568">
+    <source>Level</source>
+    <target>مستوى</target>
+   </trans-unit>
+   <trans-unit id="569">
+    <source>Liberia</source>
+    <target>ليبيريا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="570">
+    <source>Liberian</source>
+    <target>ليبيريا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="571">
+    <source>Liberian Dollar</source>
+    <target>دولار ليبيري</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="572">
+    <source>Libyan</source>
+    <target>ليبي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="573">
+    <source>Libyan Arab Jamahiriya</source>
+    <target>الجماهيرية العربية الليبية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="574">
+    <source>Libyan Dinar</source>
+    <target>الدينار الليبي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="575">
+    <source>License</source>
+    <target>ترخيص</target>
+   </trans-unit>
+   <trans-unit id="576">
+    <source>License Expiry Date</source>
+    <target>تاريخ انتهاء الترخيص</target>
+   </trans-unit>
+   <trans-unit id="577">
+    <source>License Number</source>
+    <target>رقم الترخيص</target>
+   </trans-unit>
+   <trans-unit id="578">
+    <source>License Type</source>
+    <target>نوع الترخيص</target>
+   </trans-unit>
+   <trans-unit id="579">
+    <source>Licenses</source>
+    <target>التراخيص</target>
+   </trans-unit>
+   <trans-unit id="580">
+    <source>Liechtenstein</source>
+    <target>ليختنشتاين</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="581">
+    <source>Liechtensteiner</source>
+    <target>Liechtensteiner</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="582">
+    <source>Lithuania</source>
+    <target>ليتوانيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="583">
+    <source>Lithuanian</source>
+    <target>لتواني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="584">
+    <source>Lithuanian Litas</source>
+    <target>الليتاس الليتوانية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="585">
+    <source>Loading</source>
+    <target>جاري التحميل</target>
+   </trans-unit>
+   <trans-unit id="586">
+    <source>Localization</source>
+    <target>التعريب</target>
+   </trans-unit>
+   <trans-unit id="587">
+    <source>Location</source>
+    <target>الموقع</target>
+   </trans-unit>
+   <trans-unit id="588">
+    <source>Locations</source>
+    <target>المواقع</target>
+   </trans-unit>
+   <trans-unit id="589">
+    <source>LOGIN</source>
+    <target>تسجيل الدخول</target>
+   </trans-unit>
+   <trans-unit id="590">
+    <source>LOGIN Panel</source>
+    <target>لوحة تسجيل الدخول</target>
+   </trans-unit>
+   <trans-unit id="591">
+    <source>Logout</source>
+    <target>تسجيل خروج</target>
+   </trans-unit>
+   <trans-unit id="592">
+    <source>Louisiana</source>
+    <target>لويزيانا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="593">
+    <source>Luxembourg</source>
+    <target>لوكسمبورغ</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="594">
+    <source>Luxembourger</source>
+    <target>كسمبرغ</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="595">
+    <source>Macao</source>
+    <target>ماكاو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="596">
+    <source>Macau Pataca</source>
+    <target>باتاكا ماكاو</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="597">
+    <source>Macedonia, the Former Yugoslav Republic of</source>
+    <target>مقدونيا، الجمهورية اليوغوسلافية السابقة من</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="598">
+    <source>Macedonian</source>
+    <target>المقدونية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="599">
+    <source>Madagascar</source>
+    <target>مدغشقر</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="600">
+    <source>Maine</source>
+    <target>مين</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="601">
+    <source>Malagasy</source>
+    <target>مدغشقر</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="602">
+    <source>Malagasy Franc</source>
+    <target>مدغشقر فرنك</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="603">
+    <source>Malawi</source>
+    <target>ملاوي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="604">
+    <source>Malawi Kwacha</source>
+    <target>كواشا مالاوى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="605">
+    <source>Malawian</source>
+    <target>مالاوي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="606">
+    <source>Malaysia</source>
+    <target>ماليزيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="607">
+    <source>Malaysian</source>
+    <target>الماليزي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="608">
+    <source>Malaysian Ringgit</source>
+    <target>رينغيت ماليزى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="609">
+    <source>Maldivan</source>
+    <target>ملديفي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="610">
+    <source>Maldive Rufiyaa</source>
+    <target>الروفيا الملديفي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="611">
+    <source>Maldives</source>
+    <target>جزر المالديف</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="612">
+    <source>Male</source>
+    <target>ذكر</target>
+   </trans-unit>
+   <trans-unit id="613">
+    <source>Mali</source>
+    <target>مالي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="614">
+    <source>Malian</source>
+    <target>مالي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="615">
+    <source>Malta</source>
+    <target>مالطا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="616">
+    <source>Maltese</source>
+    <target>المالطية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="617">
+    <source>Maltese Lira</source>
+    <target>الليرة المالطية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="618">
+    <source>March</source>
+    <target>مارس</target>
+   </trans-unit>
+   <trans-unit id="619">
+    <source>Marital Status</source>
+    <target>الحالة الاجتماعية</target>
+   </trans-unit>
+   <trans-unit id="620">
+    <source>Marshall Islands</source>
+    <target>جزر مارشال</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="621">
+    <source>Marshallese</source>
+    <target>جزر مارشال</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="622">
+    <source>Martinique</source>
+    <target>مارتينيك</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="623">
+    <source>Maryland</source>
+    <target>ميريلاند</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="624">
+    <source>Massachusetts</source>
+    <target>ماساتشوستس</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="625">
+    <source>Mauritania</source>
+    <target>موريتانيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="626">
+    <source>Mauritanian</source>
+    <target>الموريتانية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="627">
+    <source>Mauritanian Ouguiya</source>
+    <target>أوقية موريتانية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="628">
+    <source>Mauritian</source>
+    <target>موريشيوس</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="629">
+    <source>Mauritius</source>
+    <target>موريشيوس</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="630">
+    <source>Mauritius Rupee</source>
+    <target>موريشيوس روبية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="631">
+    <source>May</source>
+    <target>مايو</target>
+   </trans-unit>
+   <trans-unit id="632">
+    <source>Mayotte</source>
+    <target>مايوت</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="633">
+    <source>Membership</source>
+    <target>عضوية</target>
+   </trans-unit>
+   <trans-unit id="634">
+    <source>Memberships</source>
+    <target>العضويات</target>
+   </trans-unit>
+   <trans-unit id="635">
+    <source>Mexican</source>
+    <target>المكسيكي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="636">
+    <source>Mexican New Peso</source>
+    <target>جديد البيزو المكسيكي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="637">
+    <source>Mexican Peso</source>
+    <target>بيزو مكسيكى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="638">
+    <source>Mexico</source>
+    <target>المكسيك</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="639">
+    <source>Michigan</source>
+    <target>ميشيغان</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="640">
+    <source>Micronesia, Federated States of</source>
+    <target>ولايات ميكرونيزيا الموحدة من</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="641">
+    <source>Micronesian</source>
+    <target>ميكرونيزيا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="642">
+    <source>Middle</source>
+    <target>وسط</target>
+   </trans-unit>
+   <trans-unit id="643">
+    <source>Middle Name</source>
+    <target>الاسم الأوسط</target>
+   </trans-unit>
+   <trans-unit id="644">
+    <source>Minnesota</source>
+    <target>مينيسوتا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="645">
+    <source>Mississippi</source>
+    <target>ميسيسيبي</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="646">
+    <source>Missouri</source>
+    <target>ولاية ميسوري</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="647">
+    <source>Mobile</source>
+    <target>الجوال</target>
+   </trans-unit>
+   <trans-unit id="648">
+    <source>Modules</source>
+    <target>وحدات</target>
+   </trans-unit>
+   <trans-unit id="649">
+    <source>Moldova, Republic of</source>
+    <target>مولدوفا، جمهورية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="650">
+    <source>Moldovan</source>
+    <target>المولدوفية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="651">
+    <source>Monacan</source>
+    <target>موناكو</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="652">
+    <source>Monaco</source>
+    <target>موناكو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="653">
+    <source>Monday</source>
+    <target>يوم الاثنين</target>
+   </trans-unit>
+   <trans-unit id="654">
+    <source>Mongolia</source>
+    <target>منغوليا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="655">
+    <source>Mongolian</source>
+    <target>المنغولية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="656">
+    <source>Mongolian Tugrik</source>
+    <target>توغروغ منغولى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="657">
+    <source>Montana</source>
+    <target>مونتانا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="658">
+    <source>Month</source>
+    <target>شهر</target>
+   </trans-unit>
+   <trans-unit id="659">
+    <source>Montserrat</source>
+    <target>مونتسيرات</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="660">
+    <source>Moroccan</source>
+    <target>مغربي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="661">
+    <source>Moroccan Dirham</source>
+    <target>الدرهم المغربي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="662">
+    <source>Morocco</source>
+    <target>مغربي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="663">
+    <source>Mosotho</source>
+    <target>موسوثي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="664">
+    <source>Mother Tongue</source>
+    <target>اللغة الأم</target>
+   </trans-unit>
+   <trans-unit id="665">
+    <source>Motswana</source>
+    <target>موتسواني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="666">
+    <source>Mozambican</source>
+    <target>موزمبيقي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="667">
+    <source>Mozambique</source>
+    <target>موزمبيق</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="668">
+    <source>Mozambique Metical</source>
+    <target>ميتيكال موزمبيقي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="669">
+    <source>My Info</source>
+    <target>معلوماتي</target>
+   </trans-unit>
+   <trans-unit id="670">
+    <source>My Leave</source>
+    <target>إجازتي</target>
+   </trans-unit>
+   <trans-unit id="671">
+    <source>My Records</source>
+    <target>سجلاتي</target>
+   </trans-unit>
+   <trans-unit id="672">
+    <source>My Timesheets</source>
+    <target>جداولي الزمنية</target>
+   </trans-unit>
+   <trans-unit id="673">
+    <source>Myanmar</source>
+    <target>ميانمار</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="674">
+    <source>Myanmar Kyat</source>
+    <target>كيات ميانمار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="675">
+    <source>Name</source>
+    <target>اسم</target>
+   </trans-unit>
+   <trans-unit id="676">
+    <source>Name Already Exists</source>
+    <target>الاسم موجود مسبقا</target>
+   </trans-unit>
+   <trans-unit id="677">
+    <source>Name exists</source>
+    <target>الاسم موجود</target>
+   </trans-unit>
+   <trans-unit id="678">
+    <source>Namibia</source>
+    <target>ناميبيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="679">
+    <source>Namibia Dollar</source>
+    <target>ناميبيا الدولار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="680">
+    <source>Namibian</source>
+    <target>ناميبيا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="681">
+    <source>Nationalities</source>
+    <target>الجنسيات</target>
+   </trans-unit>
+   <trans-unit id="682">
+    <source>Nationality</source>
+    <target>جنسية</target>
+   </trans-unit>
+   <trans-unit id="683">
+    <source>Nauru</source>
+    <target>ناورو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="684">
+    <source>Nauruan</source>
+    <target>ناورو</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="685">
+    <source>Nebraska</source>
+    <target>نبراسكا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="686">
+    <source>Nepal</source>
+    <target>نيبال</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="687">
+    <source>Nepalese</source>
+    <target>النيبالية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="688">
+    <source>Nepalese Rupee</source>
+    <target>روبية نيبالية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="689">
+    <source>Netherlands</source>
+    <target>هولندا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="690">
+    <source>Netherlands Antilles</source>
+    <target>جزر الأنتيل الهولندية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="691">
+    <source>Nevada</source>
+    <target>نيفادا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="692">
+    <source>New Caledonia</source>
+    <target>كاليدونيا الجديدة</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="693">
+    <source>New Hampshire</source>
+    <target>نيو هامبشاير</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="694">
+    <source>New Jersey</source>
+    <target>نيو جيرسي</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="695">
+    <source>New Mexico</source>
+    <target>نيو مكسيكو</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="696">
+    <source>New York</source>
+    <target>نيويورك</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="697">
+    <source>New Zaire</source>
+    <target>جديد زائير</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="698">
+    <source>New Zealand</source>
+    <target>نيوزيلندا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="699">
+    <source>New Zealand Dollar</source>
+    <target>دولار نيوزيلندى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="700">
+    <source>New Zealander</source>
+    <target>النيوزيلندي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="701">
+    <source>Next</source>
+    <target>التالي</target>
+   </trans-unit>
+   <trans-unit id="702">
+    <source>Nicaragua</source>
+    <target>نيكاراغوا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="703">
+    <source>Nicaraguan</source>
+    <target>نيكاراغوا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="704">
+    <source>Nicaraguan Cordoba Oro</source>
+    <target>نيكاراغوا كوردوبا أورو</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="705">
+    <source>Niger</source>
+    <target>النيجر</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="706">
+    <source>Nigeria</source>
+    <target>نيجيريا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="707">
+    <source>Nigerian</source>
+    <target>النيجيري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="708">
+    <source>Nigerian Naira</source>
+    <target>نايرا نيجيرى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="709">
+    <source>Nigerien</source>
+    <target>النيجر</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="710">
+    <source>Niue</source>
+    <target>نيوي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="711">
+    <source>NL Antillian Guilder</source>
+    <target>الغلدر NL Antillian </target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="712">
+    <source>No</source>
+    <target>لا</target>
+   </trans-unit>
+   <trans-unit id="713">
+    <source>No Employees Available</source>
+    <target>لا يوجد أي موظف متاح</target>
+   </trans-unit>
+   <trans-unit id="714">
+    <source>No Project Activities</source>
+    <target>لا نشاطات للمشروع</target>
+   </trans-unit>
+   <trans-unit id="715">
+    <source>No Projects</source>
+    <target>لا مشاريع</target>
+   </trans-unit>
+   <trans-unit id="716">
+    <source>No Records Found</source>
+    <target>لا توجد سجلات</target>
+   </trans-unit>
+   <trans-unit id="717">
+    <source>No records to display</source>
+    <target>لا توجد سجلات لعرضها</target>
+   </trans-unit>
+   <trans-unit id="718">
+    <source>Norfolk Island</source>
+    <target>جزيرة نورفولك</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="719">
+    <source>North Carolina</source>
+    <target>نورث كارولينا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="720">
+    <source>North Dakota</source>
+    <target>داكوتا الشمالية</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="721">
+    <source>North Korean</source>
+    <target>كوريا الشمالية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="722">
+    <source>North Korean Won</source>
+    <target>فاز الكوري الشمالي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="723">
+    <source>Northern Irish</source>
+    <target>الايرلندية الشمالية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="724">
+    <source>Northern Mariana Islands</source>
+    <target>جزر ماريانا الشمالية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="725">
+    <source>Norway</source>
+    <target>النرويج</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="726">
+    <source>Norwegian</source>
+    <target>النرويجية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="727">
+    <source>Norwegian Krona</source>
+    <target>الكرونا النرويجية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="728">
+    <source>Not Defined</source>
+    <target>غير معرف</target>
+   </trans-unit>
+   <trans-unit id="729">
+    <source>Note</source>
+    <target>مذكرة</target>
+   </trans-unit>
+   <trans-unit id="730">
+    <source>Notes</source>
+    <target>ملاحظات</target>
+   </trans-unit>
+   <trans-unit id="731">
+    <source>November</source>
+    <target>نوفمبر</target>
+   </trans-unit>
+   <trans-unit id="732">
+    <source>Number</source>
+    <target>عدد</target>
+   </trans-unit>
+   <trans-unit id="733">
+    <source>October</source>
+    <target>أكتوبر</target>
+   </trans-unit>
+   <trans-unit id="734">
+    <source>Ohio</source>
+    <target>أوهايو</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="735">
+    <source>Ok</source>
+    <target>موافق</target>
+   </trans-unit>
+   <trans-unit id="736">
+    <source>Oklahoma</source>
+    <target>أوكلاهوما</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="737">
+    <source>Oman</source>
+    <target>عمان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="738">
+    <source>Omani</source>
+    <target>العماني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="739">
+    <source>Omani Rial</source>
+    <target>الريال العماني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="740">
+    <source>Only Include Approved Timesheets</source>
+    <target>اشمل فقط الجداول الزمنية المعتمدة</target>
+   </trans-unit>
+   <trans-unit id="741">
+    <source>Optional Fields</source>
+    <target>الحقول الاختيارية</target>
+   </trans-unit>
+   <trans-unit id="742">
+    <source>or</source>
+    <target>أو</target>
+   </trans-unit>
+   <trans-unit id="743">
+    <source>OrangeHRM - Confirmation Required</source>
+    <target>مطلوب التأكيد</target>
+   </trans-unit>
+   <trans-unit id="744">
+    <source>Oregon</source>
+    <target>أوريغون</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="745">
+    <source>Organization</source>
+    <target>منظمة</target>
+   </trans-unit>
+   <trans-unit id="746">
+    <source>Other</source>
+    <target>آخر</target>
+   </trans-unit>
+   <trans-unit id="747">
+    <source>Other Email</source>
+    <target>بريد إلكتروني آخر</target>
+   </trans-unit>
+   <trans-unit id="748">
+    <source>Other Id</source>
+    <target>رقم بطاقة التعريف الوطنية</target>
+   </trans-unit>
+   <trans-unit id="749">
+    <source>Pacific/Fiji</source>
+    <target>المحيط الهادي / فيجي</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="750">
+    <source>Pacific/Honolulu</source>
+    <target>المحيط الهادي / هونولولو</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="751">
+    <source>Pacific/Midway</source>
+    <target>المحيط الهادي / ميدواي</target>
+    <note>A time zone name</note>
+   </trans-unit>
+   <trans-unit id="752">
+    <source>Pakistan</source>
+    <target>باكستان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="753">
+    <source>Pakistan Rupee</source>
+    <target>روبية باكستاني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="754">
+    <source>Pakistani</source>
+    <target>باكستاني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="755">
+    <source>Palau</source>
+    <target>بالاو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="756">
+    <source>Palauan</source>
+    <target>بالاوي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="757">
+    <source>Palestinian Territory, Occupied</source>
+    <target>الأرض الفلسطينية المحتلة</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="758">
+    <source>Palladium (oz.)</source>
+    <target>البلاديوم (أونصة)</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="759">
+    <source>Panama</source>
+    <target>بنما</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="760">
+    <source>Panamanian</source>
+    <target>بنمية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="761">
+    <source>Panamanian Balboa</source>
+    <target>بنما بالبوا</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="762">
+    <source>Papua New Guinea</source>
+    <target>بابوا غينيا الجديدة</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="763">
+    <source>Papua New Guinea Kina</source>
+    <target>بابوا غينيا الجديدة كينا</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="764">
+    <source>Papua New Guinean</source>
+    <target>بابوا نيو غينيا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="765">
+    <source>Paraguay</source>
+    <target>باراغواي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="766">
+    <source>Paraguay Guarani</source>
+    <target>جواراني باراجواي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="767">
+    <source>Paraguayan</source>
+    <target>باراغواي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="768">
+    <source>Part Time Contract</source>
+    <target>عقد دوام جزئي</target>
+   </trans-unit>
+   <trans-unit id="769">
+    <source>Part Time Internship</source>
+    <target>عقد تدريب جزئي</target>
+   </trans-unit>
+   <trans-unit id="770">
+    <source>Part Time Permanent</source>
+    <target>دوام جزئي دائم</target>
+   </trans-unit>
+   <trans-unit id="771">
+    <source>Password</source>
+    <target>كلمة السر</target>
+   </trans-unit>
+   <trans-unit id="772">
+    <source>Password cannot be empty</source>
+    <target>كلمة السر لا يمكن أن تكون فارغة</target>
+   </trans-unit>
+   <trans-unit id="773">
+    <source>Passwords do not match</source>
+    <target>كلمات المرور لا تتطابق</target>
+   </trans-unit>
+   <trans-unit id="774">
+    <source>Past Employee</source>
+    <target>موظف سابق</target>
+   </trans-unit>
+   <trans-unit id="775">
+    <source>Past Employees Only</source>
+    <target>الموظفون السابقون فقط</target>
+   </trans-unit>
+   <trans-unit id="776">
+    <source>Pay Frequency</source>
+    <target>تكرار الدفع (الاستحقاق)</target>
+   </trans-unit>
+   <trans-unit id="777">
+    <source>Pay Grade</source>
+    <target>سلم الرواتب</target>
+   </trans-unit>
+   <trans-unit id="778">
+    <source>Pay Grades</source>
+    <target>درجات سلم الرواتب</target>
+   </trans-unit>
+   <trans-unit id="779">
+    <source>Pennsylvania</source>
+    <target>ولاية بنسلفانيا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="780">
+    <source>Performance</source>
+    <target>أداء</target>
+   </trans-unit>
+   <trans-unit id="781">
+    <source>Performed By</source>
+    <target>تم تأديتها بواسطة</target>
+   </trans-unit>
+   <trans-unit id="782">
+    <source>Personal</source>
+    <target>الشخصية</target>
+   </trans-unit>
+   <trans-unit id="783">
+    <source>Peru</source>
+    <target>بيرو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="784">
+    <source>Peruvian</source>
+    <target>بيرو</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="785">
+    <source>Peruvian Nuevo Sol</source>
+    <target>بيرو نويفو سول</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="786">
+    <source>Philippine Peso</source>
+    <target>بيزو فلبينى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="787">
+    <source>Philippines</source>
+    <target>الفلبين</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="788">
+    <source>Physically Disabled/Compensated</source>
+    <target>ذوي الاحتياجات الخاصة /المعاقين</target>
+   </trans-unit>
+   <trans-unit id="789">
+    <source>PIM</source>
+    <target>PIM</target>
+   </trans-unit>
+   <trans-unit id="790">
+    <source>PIM Sample Report</source>
+    <target>PIM عينة التقرير</target>
+   </trans-unit>
+   <trans-unit id="791">
+    <source>Pitcairn</source>
+    <target>بيتكيرن</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="792">
+    <source>Platinum (oz.)</source>
+    <target>البلاتين (أونصة)</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="793">
+    <source>Poland</source>
+    <target>بولندا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="794">
+    <source>Polish</source>
+    <target>بولندي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="795">
+    <source>Polish Zloty</source>
+    <target>الزلوتي البولندي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="796">
+    <source>Poor</source>
+    <target>فقير</target>
+   </trans-unit>
+   <trans-unit id="797">
+    <source>Portugal</source>
+    <target>البرتغال</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="798">
+    <source>Portuguese</source>
+    <target>البرتغالية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="799">
+    <source>Pound Sterling</source>
+    <target>الجنيه الاسترليني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="800">
+    <source>Previous</source>
+    <target>سابق</target>
+   </trans-unit>
+   <trans-unit id="801">
+    <source>Program</source>
+    <target>برنامج</target>
+   </trans-unit>
+   <trans-unit id="802">
+    <source>Project Date Range</source>
+    <target>مدة المشروع</target>
+   </trans-unit>
+   <trans-unit id="803">
+    <source>Project Info</source>
+    <target>معلومات المشروع</target>
+   </trans-unit>
+   <trans-unit id="804">
+    <source>Project Name</source>
+    <target>اسم المشروع</target>
+   </trans-unit>
+   <trans-unit id="805">
+    <source>Project Reports</source>
+    <target>تقارير المشروع</target>
+   </trans-unit>
+   <trans-unit id="806">
+    <source>Projects</source>
+    <target>المشاريع</target>
+   </trans-unit>
+   <trans-unit id="807">
+    <source>Puerto Rico</source>
+    <target>بورتوريكو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="808">
+    <source>Punch In/Out</source>
+    <target>تسجيل حضور / انصراف</target>
+   </trans-unit>
+   <trans-unit id="809">
+    <source>Qatar</source>
+    <target>قطر</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="810">
+    <source>Qatari</source>
+    <target>القطري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="811">
+    <source>Qatari Rial</source>
+    <target>ريال قطرى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="812">
+    <source>Qualification</source>
+    <target>المؤهل</target>
+   </trans-unit>
+   <trans-unit id="813">
+    <source>Range</source>
+    <target>نطاق</target>
+   </trans-unit>
+   <trans-unit id="814">
+    <source>Reading</source>
+    <target>قراءة</target>
+   </trans-unit>
+   <trans-unit id="815">
+    <source>Records Per Page</source>
+    <target>سجلات لكل صفحة</target>
+   </trans-unit>
+   <trans-unit id="816">
+    <source>Recruitment</source>
+    <target>توظيف</target>
+   </trans-unit>
+   <trans-unit id="817">
+    <source>Reject</source>
+    <target>رفض</target>
+   </trans-unit>
+   <trans-unit id="818">
+    <source>Rejected</source>
+    <target>تم رفضه</target>
+   </trans-unit>
+   <trans-unit id="819">
+    <source>rejected</source>
+    <target>تم رفضه</target>
+   </trans-unit>
+   <trans-unit id="820">
+    <source>Relationship</source>
+    <target>علاقة</target>
+   </trans-unit>
+   <trans-unit id="821">
+    <source>Remove</source>
+    <target>إزالة</target>
+   </trans-unit>
+   <trans-unit id="822">
+    <source>Replace Current</source>
+    <target>استبدال الحالي</target>
+   </trans-unit>
+   <trans-unit id="823">
+    <source>Replace file</source>
+    <target>استبدال الملف</target>
+   </trans-unit>
+   <trans-unit id="824">
+    <source>Report Name</source>
+    <target>إسم التقرير</target>
+   </trans-unit>
+   <trans-unit id="825">
+    <source>Reporting Method</source>
+    <target>طريقة الإبلاغ</target>
+   </trans-unit>
+   <trans-unit id="826">
+    <source>Reporting Methods</source>
+    <target>طرق الإبلاغ</target>
+   </trans-unit>
+   <trans-unit id="827">
+    <source>Reports</source>
+    <target>تقارير</target>
+   </trans-unit>
+   <trans-unit id="828">
+    <source>Required</source>
+    <target>مطلوب</target>
+   </trans-unit>
+   <trans-unit id="829">
+    <source>required field</source>
+    <target>حقل مطلوب</target>
+   </trans-unit>
+   <trans-unit id="830">
+    <source>Reset</source>
+    <target>إعادة ضبط</target>
+   </trans-unit>
+   <trans-unit id="831">
+    <source>Resigned</source>
+    <target>استقال</target>
+   </trans-unit>
+   <trans-unit id="832">
+    <source>Resigned - Company Requested</source>
+    <target>استقال - بطلب من الشركة</target>
+   </trans-unit>
+   <trans-unit id="833">
+    <source>Resigned - Self Proposed</source>
+    <target>استقال - قرار ذاتي</target>
+   </trans-unit>
+   <trans-unit id="834">
+    <source>Resume</source>
+    <target>استئناف</target>
+   </trans-unit>
+   <trans-unit id="835">
+    <source>Retired</source>
+    <target>تقاعد</target>
+   </trans-unit>
+   <trans-unit id="836">
+    <source>Reunion</source>
+    <target>جمع شمل</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="837">
+    <source>Reviews</source>
+    <target>معاينات</target>
+   </trans-unit>
+   <trans-unit id="838">
+    <source>Rhode Island</source>
+    <target>رود ايلاند</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="839">
+    <source>Romania</source>
+    <target>رومانيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="840">
+    <source>Romanian</source>
+    <target>رومانيا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="841">
+    <source>Romanian Leu</source>
+    <target>اللو الروماني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="842">
+    <source>Routing Number</source>
+    <target>رقم التوجيه</target>
+   </trans-unit>
+   <trans-unit id="843">
+    <source>Run</source>
+    <target>تشغيل</target>
+   </trans-unit>
+   <trans-unit id="844">
+    <source>Russia Rubles</source>
+    <target>الروبلات الروسية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="845">
+    <source>Russian</source>
+    <target>الروسية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="846">
+    <source>Russian Federation</source>
+    <target>الاتحاد الروسي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="847">
+    <source>Russian Rouble</source>
+    <target>الروبل الروسي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="848">
+    <source>Rwanda</source>
+    <target>رواندا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="849">
+    <source>Rwandan</source>
+    <target>الروانديين</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="850">
+    <source>Saint Helena</source>
+    <target>سانت هيلانة</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="851">
+    <source>Saint Kitts and Nevis</source>
+    <target>سانت كيتس ونيفيس</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="852">
+    <source>Saint Lucia</source>
+    <target>سانت لوسيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="853">
+    <source>Saint Lucian</source>
+    <target>سانت لوسيان</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="854">
+    <source>Saint Pierre and Miquelon</source>
+    <target>سان بيار وميكلون</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="855">
+    <source>Saint Vincent and the Grenadines</source>
+    <target>سانت فنسنت وغرينادين</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="856">
+    <source>Salary</source>
+    <target>راتب</target>
+   </trans-unit>
+   <trans-unit id="857">
+    <source>Salary Component</source>
+    <target>مكون الراتب</target>
+   </trans-unit>
+   <trans-unit id="858">
+    <source>Salvadoran</source>
+    <target>السلفادوري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="859">
+    <source>Samoa</source>
+    <target>ساموا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="860">
+    <source>Samoan</source>
+    <target>ساموا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="861">
+    <source>Samoan Tala</source>
+    <target>ساموا تالا</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="862">
+    <source>San Marinese</source>
+    <target>سان مارينز</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="863">
+    <source>San Marino</source>
+    <target>سان مارينو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="864">
+    <source>Sao Tome and Principe</source>
+    <target>ساو تومي وبرينسيبي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="865">
+    <source>Sao Tome/Principe Dobra</source>
+    <target>ساو تومي / Dobra برينسيبي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="866">
+    <source>Sao Tomean</source>
+    <target>ساو تومي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="867">
+    <source>Saturday</source>
+    <target>السبت</target>
+   </trans-unit>
+   <trans-unit id="868">
+    <source>Saudi</source>
+    <target>سعودي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="869">
+    <source>Saudi Arabia</source>
+    <target>المملكة العربية السعودية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="870">
+    <source>Saudi Arabia Riyal</source>
+    <target>ريال سعودي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="871">
+    <source>Save</source>
+    <target>حفظ</target>
+   </trans-unit>
+   <trans-unit id="872">
+    <source>Save Comment Only</source>
+    <target>حفظ التعليق فقط</target>
+   </trans-unit>
+   <trans-unit id="873">
+    <source>Savings</source>
+    <target>المحفوظات</target>
+   </trans-unit>
+   <trans-unit id="874">
+    <source>Scheduled</source>
+    <target>تم وضع جدول زمني له</target>
+   </trans-unit>
+   <trans-unit id="875">
+    <source>Score</source>
+    <target>علامة</target>
+   </trans-unit>
+   <trans-unit id="876">
+    <source>Scottish</source>
+    <target>الاسكتلندي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="877">
+    <source>Search</source>
+    <target>بحث</target>
+   </trans-unit>
+   <trans-unit id="878">
+    <source>Select</source>
+    <target>حدد</target>
+   </trans-unit>
+   <trans-unit id="879">
+    <source>Select Action</source>
+    <target>اختر الاجراء</target>
+   </trans-unit>
+   <trans-unit id="880">
+    <source>Select an Employee</source>
+    <target>اختر موظف</target>
+   </trans-unit>
+   <trans-unit id="881">
+    <source>Select Comparison</source>
+    <target>حدد مقارنة</target>
+   </trans-unit>
+   <trans-unit id="882">
+    <source>Select File</source>
+    <target>حدد ملف</target>
+   </trans-unit>
+   <trans-unit id="883">
+    <source>Select Records to Delete</source>
+    <target>حدد سجلات للحذف</target>
+   </trans-unit>
+   <trans-unit id="884">
+    <source>Select Salary Grade</source>
+    <target>حدد درجة الراتب</target>
+   </trans-unit>
+   <trans-unit id="885">
+    <source>Selected Criteria</source>
+    <target>المعايير المختارة</target>
+   </trans-unit>
+   <trans-unit id="886">
+    <source>Selection Criteria</source>
+    <target>معايير الاختيار</target>
+   </trans-unit>
+   <trans-unit id="887">
+    <source>Senegal</source>
+    <target>السنغال</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="888">
+    <source>Senegalese</source>
+    <target>سنغالي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="889">
+    <source>September</source>
+    <target>سبتمبر</target>
+   </trans-unit>
+   <trans-unit id="890">
+    <source>Serbia and Montenegro</source>
+    <target>صربيا والجبل الأسود</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="891">
+    <source>Serbian</source>
+    <target>صربي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="892">
+    <source>Service Period</source>
+    <target>فترة الخدمة</target>
+   </trans-unit>
+   <trans-unit id="893">
+    <source>Seychelles</source>
+    <target>سيشل</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="894">
+    <source>Seychelles Rupee</source>
+    <target>سيشيل روبية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="895">
+    <source>Seychellois</source>
+    <target>سيشل</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="896">
+    <source>Should be a number</source>
+    <target>يجب أن يكون عدد</target>
+   </trans-unit>
+   <trans-unit id="897">
+    <source>Should be a positive number</source>
+    <target>يجب أن يكون رقما موجبا</target>
+   </trans-unit>
+   <trans-unit id="898">
+    <source>Should be a valid date in %format% format</source>
+    <target>يجب أن تكون صيغة التاريخ %format%</target>
+   </trans-unit>
+   <trans-unit id="899">
+    <source>Should be greater than %amount%</source>
+    <target>يجب أ ن يكون أكبر من %amount%</target>
+   </trans-unit>
+   <trans-unit id="900">
+    <source>Should be greater than first value</source>
+    <target>ينبغي أن تكون أكبر من القيمة الأولى</target>
+   </trans-unit>
+   <trans-unit id="901">
+    <source>Should be less than %amount%</source>
+    <target>يجب أن يكون أقل من %amount%</target>
+   </trans-unit>
+   <trans-unit id="902">
+    <source>Should be less than %amount% characters</source>
+    <target>يجب أن يكون أقل من %amount% حروف</target>
+   </trans-unit>
+   <trans-unit id="903">
+    <source>Should be less than %number% digits</source>
+    <target>يجب أن يكون أقل من %number% رقم/أرقام</target>
+   </trans-unit>
+   <trans-unit id="904">
+    <source>Should be within Min/Max values</source>
+    <target>يجب أن تكون ضمن قيم الأدنى و الأعلى</target>
+   </trans-unit>
+   <trans-unit id="905">
+    <source>Should have at least %number% characters</source>
+    <target>يجب أن يكون على الاقل %number% حروف</target>
+   </trans-unit>
+   <trans-unit id="906">
+    <source>Show Direct Deposit Details</source>
+    <target>إظهار تفاصيل الإيداع المباشر</target>
+   </trans-unit>
+   <trans-unit id="907">
+    <source>Sierra Leone</source>
+    <target>سيراليون</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="908">
+    <source>Sierra Leone Leone</source>
+    <target>سيراليون ليون</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="909">
+    <source>Sierra Leonean</source>
+    <target>سيراليون</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="910">
+    <source>Silver (oz.)</source>
+    <target>فضة (أونصة)</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="911">
+    <source>Singapore</source>
+    <target>سنغافورة</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="912">
+    <source>Singapore Dollar</source>
+    <target>دولار سنغافورى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="913">
+    <source>Singaporean</source>
+    <target>سنغافورة</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="914">
+    <source>Size</source>
+    <target>حجم</target>
+   </trans-unit>
+   <trans-unit id="915">
+    <source>Skill</source>
+    <target>مهارة</target>
+   </trans-unit>
+   <trans-unit id="916">
+    <source>Skills</source>
+    <target>المهارات</target>
+   </trans-unit>
+   <trans-unit id="917">
+    <source>Slovak Koruna</source>
+    <target>الكورونا السلوفاكية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="918">
+    <source>Slovakia</source>
+    <target>سلوفاكيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="919">
+    <source>Slovakian</source>
+    <target>السلوفاكي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="920">
+    <source>Slovenia</source>
+    <target>سلوفينيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="921">
+    <source>Slovenian</source>
+    <target>سلوفيني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="922">
+    <source>Solomon Islander</source>
+    <target>سليمان جزر</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="923">
+    <source>Solomon Islands</source>
+    <target>جزر سليمان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="924">
+    <source>Solomon Islands Dollar</source>
+    <target>جزر سليمان الدولار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="925">
+    <source>Somali</source>
+    <target>الصومالية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="926">
+    <source>Somali Shilling</source>
+    <target>شلن صومالي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="927">
+    <source>Somalia</source>
+    <target>الصومال</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="928">
+    <source>Sort in Ascending Order</source>
+    <target>فرز بترتيب تصاعدي</target>
+   </trans-unit>
+   <trans-unit id="929">
+    <source>Sort in Descending Order</source>
+    <target>فرز بترتيب تنازلي</target>
+   </trans-unit>
+   <trans-unit id="930">
+    <source>South Africa</source>
+    <target>جنوب أفريقيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="931">
+    <source>South African</source>
+    <target>جنوب أفريقيا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="932">
+    <source>South African Rand</source>
+    <target>راند جنوب أفريقيا</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="933">
+    <source>South Carolina</source>
+    <target>ولاية كارولينا الجنوبية</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="934">
+    <source>South Dakota</source>
+    <target>داكوتا الجنوبية</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="935">
+    <source>South Georgia and the South Sandwich Islands</source>
+    <target>جورجيا الجنوبية وجزر ساندويتش الجنوبية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="936">
+    <source>South Korean</source>
+    <target>كوريا الجنوبية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="937">
+    <source>Spain</source>
+    <target>إسبانيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="938">
+    <source>Spanish</source>
+    <target>الأسبانية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="939">
+    <source>Speaking</source>
+    <target>تحدث</target>
+   </trans-unit>
+   <trans-unit id="940">
+    <source>Sri Lanka</source>
+    <target>سري لانكا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="941">
+    <source>Sri Lanka Rupee</source>
+    <target>روبية سريلانكية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="942">
+    <source>Sri Lankan</source>
+    <target>سري لانكا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="943">
+    <source>St. Helena Pound</source>
+    <target>سانت هيلانة الجنيه</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="944">
+    <source>Start Date</source>
+    <target>تاريخ المباشرة</target>
+   </trans-unit>
+   <trans-unit id="945">
+    <source>Start date should be before end date</source>
+    <target>وينبغي أن يكون تتاريخ المباشرة قبل تاريخ نهاية</target>
+   </trans-unit>
+   <trans-unit id="946">
+    <source>State</source>
+    <target>دولة</target>
+   </trans-unit>
+   <trans-unit id="947">
+    <source>State/Province</source>
+    <target>المحافطة / الاقليم</target>
+   </trans-unit>
+   <trans-unit id="948">
+    <source>Status</source>
+    <target>حالة</target>
+   </trans-unit>
+   <trans-unit id="949">
+    <source>Structure</source>
+    <target>هيكل</target>
+   </trans-unit>
+   <trans-unit id="950">
+    <source>Sub Unit</source>
+    <target>وحدة فرعية</target>
+   </trans-unit>
+   <trans-unit id="951">
+    <source>Submit</source>
+    <target>إرسال</target>
+   </trans-unit>
+   <trans-unit id="952">
+    <source>Submitted</source>
+    <target>تم ارسالة</target>
+   </trans-unit>
+   <trans-unit id="953">
+    <source>Subordinates</source>
+    <target>المرؤوسين</target>
+   </trans-unit>
+   <trans-unit id="954">
+    <source>Subscribe</source>
+    <target>اشتراك</target>
+   </trans-unit>
+   <trans-unit id="955">
+    <source>Subscription Amount</source>
+    <target>مبلغ الاكتتاب</target>
+   </trans-unit>
+   <trans-unit id="956">
+    <source>Subscription Commence Date</source>
+    <target>الاشتراك إشرع تاريخ</target>
+   </trans-unit>
+   <trans-unit id="957">
+    <source>Subscription Paid By</source>
+    <target>تم دفع الاشتراك بواسطة</target>
+   </trans-unit>
+   <trans-unit id="958">
+    <source>Subscription Renewal Date</source>
+    <target>تاريخ تجديد الاشتراك</target>
+   </trans-unit>
+   <trans-unit id="959">
+    <source>Successfully Added</source>
+    <target>أضيف بنجاح</target>
+   </trans-unit>
+   <trans-unit id="960">
+    <source>Successfully Assigned</source>
+    <target>تم التعيين بنجاح</target>
+   </trans-unit>
+   <trans-unit id="961">
+    <source>Successfully Changed</source>
+    <target>تم التغيير بنجاح</target>
+   </trans-unit>
+   <trans-unit id="962">
+    <source>Successfully Copied</source>
+    <target>تم النسخ بنجاح</target>
+   </trans-unit>
+   <trans-unit id="963">
+    <source>Successfully Deleted</source>
+    <target>حذف بنجاح</target>
+   </trans-unit>
+   <trans-unit id="964">
+    <source>Successfully removed</source>
+    <target>نجحت في إزالة</target>
+   </trans-unit>
+   <trans-unit id="965">
+    <source>Successfully Saved</source>
+    <target>تم الحفظ بنجاح</target>
+   </trans-unit>
+   <trans-unit id="966">
+    <source>Successfully Submitted</source>
+    <target>قدم بنجاح</target>
+   </trans-unit>
+   <trans-unit id="967">
+    <source>Successfully Updated</source>
+    <target>تم التحديث بنجاح</target>
+   </trans-unit>
+   <trans-unit id="968">
+    <source>Successfully Uploaded</source>
+    <target>حمل بنجاح</target>
+   </trans-unit>
+   <trans-unit id="969">
+    <source>Sudan</source>
+    <target>سودان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="970">
+    <source>Sudanese</source>
+    <target>سوداني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="971">
+    <source>Sudanese Dinar</source>
+    <target>دينار سوداني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="972">
+    <source>Sudanese Pound</source>
+    <target>الجنيه السوداني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="973">
+    <source>Sunday</source>
+    <target>الأحد</target>
+   </trans-unit>
+   <trans-unit id="974">
+    <source>Supervisor</source>
+    <target>مشرف</target>
+   </trans-unit>
+   <trans-unit id="975">
+    <source>Supervisor Name</source>
+    <target>اسم المشرف</target>
+   </trans-unit>
+   <trans-unit id="976">
+    <source>Supervisors</source>
+    <target>المشرفين</target>
+   </trans-unit>
+   <trans-unit id="977">
+    <source>Support</source>
+    <target>دعم</target>
+   </trans-unit>
+   <trans-unit id="978">
+    <source>Suriname</source>
+    <target>سورينام</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="979">
+    <source>Surinamer</source>
+    <target>سورينامي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="980">
+    <source>Surinamese Dollar</source>
+    <target>سورينام الدولار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="981">
+    <source>Svalbard and Jan Mayen</source>
+    <target>سفالبارد وجان مايان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="982">
+    <source>Swazi</source>
+    <target>سوازيلاند</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="983">
+    <source>Swaziland</source>
+    <target>سوازيلاند</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="984">
+    <source>Swaziland Lilangeni</source>
+    <target>يلانجيني سوازيلندى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="985">
+    <source>Sweden</source>
+    <target>السويد</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="986">
+    <source>Swedish</source>
+    <target>السويدية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="987">
+    <source>Swedish Krona</source>
+    <target>كرونة سويدية</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="988">
+    <source>Swiss</source>
+    <target>سويسري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="989">
+    <source>Swiss Franc</source>
+    <target>الفرنك السويسري</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="990">
+    <source>Switzerland</source>
+    <target>سويسرا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="991">
+    <source>Syrian</source>
+    <target>سوري</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="992">
+    <source>Syrian Arab Republic</source>
+    <target>الجمهورية العربية السورية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="993">
+    <source>Syrian Pound</source>
+    <target>جنيه سورى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="994">
+    <source>Taiwan</source>
+    <target>تايوان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="995">
+    <source>Taiwan Dollar</source>
+    <target>تايوان الدولار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="996">
+    <source>Taiwanese</source>
+    <target>التايواني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="997">
+    <source>Tajik</source>
+    <target>الطاجيكية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="998">
+    <source>Tajikistan</source>
+    <target>طاجيكستان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="999">
+    <source>Tanzania, United Republic of</source>
+    <target>تنزانيا المتحدة، جمهورية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1000">
+    <source>Tanzanian</source>
+    <target>تنزانية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1001">
+    <source>Tanzanian Shilling</source>
+    <target>تنزانيا شلن</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1002">
+    <source>Tennessee</source>
+    <target>تينيسي</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="1003">
+    <source>Terminated</source>
+    <target>إنهاء</target>
+   </trans-unit>
+   <trans-unit id="1004">
+    <source>Termination Date</source>
+    <target>تاريخ الإنهاء</target>
+   </trans-unit>
+   <trans-unit id="1005">
+    <source>Termination Reason</source>
+    <target>سبب الإنهاء</target>
+   </trans-unit>
+   <trans-unit id="1006">
+    <source>Termination Reasons</source>
+    <target>أسباب الإنهاء</target>
+   </trans-unit>
+   <trans-unit id="1007">
+    <source>Texas</source>
+    <target>تكساس</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="1008">
+    <source>Thai</source>
+    <target>التايلاندية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1009">
+    <source>Thai Baht</source>
+    <target>البات التايلندي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1010">
+    <source>Thailand</source>
+    <target>تايلاند</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1011">
+    <source>Thursday</source>
+    <target>الخميس</target>
+   </trans-unit>
+   <trans-unit id="1012">
+    <source>Time</source>
+    <target>الوقت</target>
+   </trans-unit>
+   <trans-unit id="1013">
+    <source>Timesheets</source>
+    <target>الجداول الزمنية</target>
+   </trans-unit>
+   <trans-unit id="1014">
+    <source>Timor-Leste</source>
+    <target>تيمور الشرقية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1015">
+    <source>To</source>
+    <target>إلى</target>
+   </trans-unit>
+   <trans-unit id="1016">
+    <source>to</source>
+    <target>إلى</target>
+   </trans-unit>
+   <trans-unit id="1017">
+    <source>To date should be after from date</source>
+    <target>ينبغي أن يكون تاريخ النهاية بعد تاريخ البدء</target>
+   </trans-unit>
+   <trans-unit id="1018">
+    <source>Togo</source>
+    <target>توغو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1019">
+    <source>Togolese</source>
+    <target>توغو</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1020">
+    <source>Tokelau</source>
+    <target>توكيلاو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1021">
+    <source>Tonga</source>
+    <target>تونغا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1022">
+    <source>Tongan</source>
+    <target>تونجا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1023">
+    <source>Tongan Pa'anga</source>
+    <target>تونجا Pa'anga</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1024">
+    <source>Total</source>
+    <target>مجموع</target>
+   </trans-unit>
+   <trans-unit id="1025">
+    <source>Training</source>
+    <target>تدريب</target>
+   </trans-unit>
+   <trans-unit id="1026">
+    <source>Trinidad and Tobago</source>
+    <target>ترينيداد وتوباغو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1027">
+    <source>Trinidad/Tobago Dollar</source>
+    <target>ترينيداد / توباغو الدولار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1028">
+    <source>Trinidadian or Tobagonian</source>
+    <target>ترينيداد وتوباغو أو Tobagonian</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1029">
+    <source>Tuesday</source>
+    <target>الثلاثاء</target>
+   </trans-unit>
+   <trans-unit id="1030">
+    <source>Tunisia</source>
+    <target>تونس</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1031">
+    <source>Tunisian</source>
+    <target>التونسية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1032">
+    <source>Tunisian Dinar</source>
+    <target>الدينار التونسي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1033">
+    <source>Turkey</source>
+    <target>تركيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1034">
+    <source>Turkish</source>
+    <target>التركية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1035">
+    <source>Turkish Lira</source>
+    <target>ليرة تركية جديدة</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1036">
+    <source>Turkmenistan</source>
+    <target>تركمانستان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1037">
+    <source>Turks and Caicos Islands</source>
+    <target>جزر تركس وكايكوس</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1038">
+    <source>Tuvalu</source>
+    <target>توفالو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1039">
+    <source>Tuvaluan</source>
+    <target>التوفاليين</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1040">
+    <source>Type</source>
+    <target>نوع</target>
+   </trans-unit>
+   <trans-unit id="1041">
+    <source>Type Employee Id</source>
+    <target>نوع معرف الموظف</target>
+   </trans-unit>
+   <trans-unit id="1042">
+    <source>Type for hints</source>
+    <target>نوع  التلميحات</target>
+   </trans-unit>
+   <trans-unit id="1043">
+    <source>Type in years</source>
+    <target>ادخل القيمة بالسنوات</target>
+   </trans-unit>
+   <trans-unit id="1044">
+    <source>Uganda</source>
+    <target>أوغندا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1045">
+    <source>Uganda Shilling</source>
+    <target>أوغندا الشلن</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1046">
+    <source>Ugandan</source>
+    <target>الأوغندية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1047">
+    <source>Ukraine</source>
+    <target>أوكرانيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1048">
+    <source>Ukraine Hryvnia</source>
+    <target>أوكرانيا الهريفنيا</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1049">
+    <source>Ukrainian</source>
+    <target>الأوكراني</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1050">
+    <source>United Arab Emirates</source>
+    <target>الامارات العربية المتحدة</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1051">
+    <source>United Kingdom</source>
+    <target>المملكة المتحدة</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1052">
+    <source>United States</source>
+    <target>الولايات المتحدة</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1053">
+    <source>United States Dollar</source>
+    <target>الولايات المتحدة الدولار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1054">
+    <source>United States Minor Outlying Islands</source>
+    <target>الولايات المتحدة البعيدة الصغيرة جزر</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1055">
+    <source>Upload</source>
+    <target>رفع</target>
+   </trans-unit>
+   <trans-unit id="1056">
+    <source>Uruguay</source>
+    <target>أوروغواي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1057">
+    <source>Uruguayan</source>
+    <target>الأوروغواي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1058">
+    <source>Uruguayan Peso</source>
+    <target>اوروغواى بيزو</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1059">
+    <source>Username</source>
+    <target>اسم المستخدم</target>
+   </trans-unit>
+   <trans-unit id="1060">
+    <source>Username cannot be empty</source>
+    <target>اسم المستخدم لا يمكن أن يكون فارغة</target>
+   </trans-unit>
+   <trans-unit id="1061">
+    <source>Users</source>
+    <target>المستخدمين</target>
+   </trans-unit>
+   <trans-unit id="1062">
+    <source>Utah</source>
+    <target>يوتا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="1063">
+    <source>Utd. Arab Emir. Dirham</source>
+    <target>مانشستر يونايتد. الأمير العربي. درهم</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1064">
+    <source>Uzbekistan</source>
+    <target>أوزبكستان</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1065">
+    <source>Uzbekistani</source>
+    <target>اوزبكستان</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1066">
+    <source>Vacancies</source>
+    <target>وظائف شاغرة</target>
+   </trans-unit>
+   <trans-unit id="1067">
+    <source>Vanuatu</source>
+    <target>فانواتو</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1068">
+    <source>Vanuatu Vatu</source>
+    <target>فاتو فانواتو</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1069">
+    <source>Venezuela</source>
+    <target>فنزويلا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1070">
+    <source>Venezuelan</source>
+    <target>فنزويلا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1071">
+    <source>Venezuelan Bolivar</source>
+    <target>فنزويلا بوليفار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1072">
+    <source>Vermont</source>
+    <target>فيرمونت</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="1073">
+    <source>Viet Nam</source>
+    <target>فيتنام</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1074">
+    <source>Vietnamese</source>
+    <target>الفيتنامية</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1075">
+    <source>Vietnamese Dong</source>
+    <target>دونج فيتنامى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1076">
+    <source>View</source>
+    <target>عرض</target>
+   </trans-unit>
+   <trans-unit id="1077">
+    <source>View Details</source>
+    <target>عرض تفاصيل</target>
+   </trans-unit>
+   <trans-unit id="1078">
+    <source>Virgin Islands</source>
+    <target>الجزر العذراء</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="1079">
+    <source>Virgin Islands, British</source>
+    <target>جزر فيرجن، البريطانية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1080">
+    <source>Virgin Islands, U.s.</source>
+    <target>الجزر العذراء، الولايات المتحدة</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1081">
+    <source>Virginia</source>
+    <target>فرجينيا</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="1082">
+    <source>Wallis and Futuna</source>
+    <target>واليس وفوتونا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1083">
+    <source>Washington</source>
+    <target>واشنطن</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="1084">
+    <source>Wednesday</source>
+    <target>الأربعاء</target>
+   </trans-unit>
+   <trans-unit id="1085">
+    <source>Welcome #username</source>
+    <target> مرحباً بك #username</target>
+   </trans-unit>
+   <trans-unit id="1086">
+    <source>Welsh</source>
+    <target>واليسي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1087">
+    <source>West Virginia</source>
+    <target>فيرجينيا الغربية</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="1088">
+    <source>Western Sahara</source>
+    <target>الصحراء الغربية</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1089">
+    <source>Win Exciting OrangeHRM Goodies</source>
+    <target>اربح بضائع OrangeHRM المثيرة</target>
+   </trans-unit>
+   <trans-unit id="1090">
+    <source>Wisconsin</source>
+    <target>ويسكونسن</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="1091">
+    <source>with new file</source>
+    <target>مع ملف جديد</target>
+   </trans-unit>
+   <trans-unit id="1092">
+    <source>Work Email</source>
+    <target>إيميل العمل</target>
+   </trans-unit>
+   <trans-unit id="1093">
+    <source>Work Experience</source>
+    <target>خبرة العمل</target>
+   </trans-unit>
+   <trans-unit id="1094">
+    <source>Work Shifts</source>
+    <target>نوبات العمل</target>
+   </trans-unit>
+   <trans-unit id="1095">
+    <source>Work Telephone</source>
+    <target>هاتف العمل</target>
+   </trans-unit>
+   <trans-unit id="1096">
+    <source>Work Week</source>
+    <target>أسبوع العمل</target>
+   </trans-unit>
+   <trans-unit id="1097">
+    <source>Writing</source>
+    <target>كتابة</target>
+   </trans-unit>
+   <trans-unit id="1098">
+    <source>Wyoming</source>
+    <target>وايومنغ</target>
+    <note>A US state name</note>
+   </trans-unit>
+   <trans-unit id="1099">
+    <source>Year</source>
+    <target>عام</target>
+   </trans-unit>
+   <trans-unit id="1100">
+    <source>Years of Experience</source>
+    <target>سنوات الخبرة</target>
+   </trans-unit>
+   <trans-unit id="1101">
+    <source>Yemen</source>
+    <target>يمني</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1102">
+    <source>Yemeni Riyal</source>
+    <target>الريال اليمني</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1103">
+    <source>Yemenite</source>
+    <target>اليمن</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1104">
+    <source>Yes</source>
+    <target>نعم</target>
+   </trans-unit>
+   <trans-unit id="1105">
+    <source>Yugoslav Dinar</source>
+    <target>الدينار اليوغوسلافي</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1106">
+    <source>Yugoslavian Dinar</source>
+    <target>اليوغسلافية دينار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1107">
+    <source>Zambia</source>
+    <target>زامبيا</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1108">
+    <source>Zambian</source>
+    <target>زامبيا</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1109">
+    <source>Zambian Kwacha</source>
+    <target>كواشا زامبى</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1110">
+    <source>Zimbabwe</source>
+    <target>زيمبابوي</target>
+    <note>A country name</note>
+   </trans-unit>
+   <trans-unit id="1111">
+    <source>Zimbabwe Dollar</source>
+    <target>زيمبابوي دولار</target>
+    <note>A currency name</note>
+   </trans-unit>
+   <trans-unit id="1112">
+    <source>Zimbabwean</source>
+    <target>زيمبابوي</target>
+    <note>A nationality name</note>
+   </trans-unit>
+   <trans-unit id="1113">
+    <source>Zip/Postal Code</source>
+    <target>الرمز البريدي</target>
+   </trans-unit>
+  </body>
+ </file>
+</xliff>
+<!-- Contributed By:   ,   ,   ,   ,   , Abdullah Hafiz , Ali Mazloum , Hussain Al Hilal , Mohamed Tawfik , Raza Rajwani -->
