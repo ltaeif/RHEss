@@ -2,14 +2,14 @@ all:
   doctrine:
     class: sfDoctrineDatabase
     param:
-      dsn: 'mysql:host=localhost;port=3306;dbname=rhess'
-      username: root
-      password: 
+      dsn: 'mysql:host=127.4.172.130;port=3306;dbname=rhess'
+      username: adminN8HeLTv
+      password: NfuxeleLElNy
       attributes: { export: tables }
 test:
   doctrine:
     class: sfDoctrineDatabase
     param:
-      dsn: 'mysql:host=localhost;port=3306;dbname=test_rhess'
-      username: root
-      password: 
+      dsn: 'mysql:host=127.4.172.130;port=3306;dbname=rhess'
+      username: adminN8HeLTv
+      password: NfuxeleLElNy

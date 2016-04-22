@@ -17,8 +17,8 @@ class Conf {
 		}else {
 		$this->dbname    = 'rhess';
 		}
-		$this->dbuser    = 'adminN8HeLTv';
-		$this->dbpass	= 'NfuxeleLElNy';
+		$this->dbuser    = 'root';
+		$this->dbpass	= '';
 		$this->version = '3.3.1';
 
 		$this->emailConfiguration = dirname(__FILE__).'/mailConf.php';
